@@ -1,0 +1,13 @@
+PRODUCT REPORT - Sport-100 Helmet, Black
+
+Product ID: P009. Product number in the dataset: HL-U509 (AdventureWorks product 708). Category: Helmets (Accessories).
+
+Description of Sport-100 Helmet, Black: Universal fit, well-vented, lightweight , snap-on visor.
+
+Price: Sport-100 Helmet, Black sells for $34.99. Its standard cost is $13.09.
+
+Supplier: Sport-100 Helmet, Black is bought from G & K Bicycle Corp. The supplier's usual price is $13.25 per unit. The lead time (days between ordering and receiving) is 30 days. Each order must be between 4 and 200 units. 25 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Sport-100 Helmet, Black is 324 units: 324 units at Finished Goods Storage.
+
+Online sales: 2079 units of Sport-100 Helmet, Black were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 91 units were sold, an average of 3.0 units per day. The best month was May 2025 with 211 units. Sport-100 Helmet, Black sold on 384 of 393 days.

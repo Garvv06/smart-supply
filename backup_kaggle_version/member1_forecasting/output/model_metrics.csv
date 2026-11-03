@@ -1,0 +1,61 @@
+product_id,model,MAE,chosen
+P001,Baseline (30-day avg),3.95,False
+P001,Linear Regression,9.96,True
+P001,Random Forest,12.97,False
+P002,Baseline (30-day avg),8.69,False
+P002,Linear Regression,18.77,True
+P002,Random Forest,21.81,False
+P003,Baseline (30-day avg),4.28,False
+P003,Linear Regression,8.06,False
+P003,Random Forest,7.37,True
+P004,Baseline (30-day avg),8.82,False
+P004,Linear Regression,14.89,True
+P004,Random Forest,16.36,False
+P005,Baseline (30-day avg),2.04,False
+P005,Linear Regression,4.67,False
+P005,Random Forest,2.3,True
+P006,Baseline (30-day avg),2.18,False
+P006,Linear Regression,10.03,False
+P006,Random Forest,2.66,True
+P007,Baseline (30-day avg),8.06,False
+P007,Linear Regression,14.55,True
+P007,Random Forest,19.5,False
+P008,Baseline (30-day avg),2.39,False
+P008,Linear Regression,4.87,False
+P008,Random Forest,3.39,True
+P009,Baseline (30-day avg),5.25,False
+P009,Linear Regression,2.17,True
+P009,Random Forest,6.2,False
+P010,Baseline (30-day avg),3.78,False
+P010,Linear Regression,8.76,False
+P010,Random Forest,4.81,True
+P011,Baseline (30-day avg),3.21,False
+P011,Linear Regression,3.0,True
+P011,Random Forest,4.52,False
+P012,Baseline (30-day avg),1.33,False
+P012,Linear Regression,3.8,False
+P012,Random Forest,1.67,True
+P013,Baseline (30-day avg),0.39,False
+P013,Linear Regression,26.71,False
+P013,Random Forest,3.77,True
+P014,Baseline (30-day avg),3.27,False
+P014,Linear Regression,6.73,True
+P014,Random Forest,17.85,False
+P015,Baseline (30-day avg),3.84,False
+P015,Linear Regression,2.9,True
+P015,Random Forest,3.57,False
+P016,Baseline (30-day avg),1.66,False
+P016,Linear Regression,7.67,False
+P016,Random Forest,1.91,True
+P017,Baseline (30-day avg),2.64,False
+P017,Linear Regression,22.67,True
+P017,Random Forest,24.13,False
+P018,Baseline (30-day avg),1.79,False
+P018,Linear Regression,4.11,False
+P018,Random Forest,1.97,True
+P019,Baseline (30-day avg),1.85,False
+P019,Linear Regression,6.16,False
+P019,Random Forest,1.86,True
+P020,Baseline (30-day avg),1.21,False
+P020,Linear Regression,5.75,False
+P020,Random Forest,1.25,True

@@ -1,0 +1,15 @@
+PRODUCT REPORT - ML Road Tire
+
+Product ID: P017. Product number in the dataset: TI-R628 (AdventureWorks product 932). Category: Tires and Tubes (Accessories).
+
+Description of ML Road Tire: Higher density rubber.
+
+Price: ML Road Tire sells for $24.99. Its standard cost is $9.35.
+
+Supplier: ML Road Tire is bought from Signature Cycles. The supplier's usual price is $37.37 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 2200 units are on order and have not arrived yet.
+
+Other supplier: ML Road Tire can also be bought from Professional Athletic Consultants for $37.87 per unit, with a lead time of 19 days.
+
+Stock: the latest stock count of ML Road Tire is 574 units: 382 units at Miscellaneous Storage (shelf L, bin 8); 192 units at Subassembly (shelf R, bin 7).
+
+Online sales: 924 units of ML Road Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 34 units were sold, an average of 1.1 units per day. The best month was May 2025 with 107 units. ML Road Tire sold on 341 of 393 days.

@@ -1,0 +1,13 @@
+PRODUCT REPORT - Sport-100 Helmet, Blue
+
+Product ID: P007. Product number in the dataset: HL-U509-B (AdventureWorks product 711). Category: Helmets (Accessories).
+
+Description of Sport-100 Helmet, Blue: Universal fit, well-vented, lightweight , snap-on visor.
+
+Price: Sport-100 Helmet, Blue sells for $34.99. Its standard cost is $13.09.
+
+Supplier: Sport-100 Helmet, Blue is bought from G & K Bicycle Corp. The supplier's usual price is $13.88 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 50 and 750 units. 300 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Sport-100 Helmet, Blue is 216 units: 216 units at Finished Goods Storage.
+
+Online sales: 2115 units of Sport-100 Helmet, Blue were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 94 units were sold, an average of 3.1 units per day. The best month was May 2025 with 222 units. Sport-100 Helmet, Blue sold on 385 of 393 days.

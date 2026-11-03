@@ -1,0 +1,9 @@
+PURCHASE ORDER 2900 - Vista Road Bikes
+
+Purchase order 2900 was placed with Vista Road Bikes on 2025-05-11 and shipped on 2025-05-20 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 2900:
+- LL Mountain Tire (P019): ordered 550, received 550, rejected 0, unit price $32.25, line total $17,735.03, due 2025-05-25
+- ML Mountain Tire (P014): ordered 550, received 550, rejected 55, unit price $36.56, line total $20,108.55, due 2025-05-25
+
+Invoice amounts for purchase order 2900: subtotal $37,843.57, tax $3,027.49, freight $946.09, total due $41,817.15.

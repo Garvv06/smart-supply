@@ -1,0 +1,8 @@
+PURCHASE ORDER 657 - Professional Athletic Consultants
+
+Purchase order 657 was placed with Professional Athletic Consultants on 2024-08-21 and shipped on 2024-08-30 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 657:
+- Touring Tire (P016): ordered 550, received 550, rejected 0, unit price $38.15, line total $20,980.58, due 2024-09-04
+
+Invoice amounts for purchase order 657: subtotal $20,980.58, tax $1,678.45, freight $524.51, total due $23,183.54.

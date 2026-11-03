@@ -1,0 +1,8 @@
+PURCHASE ORDER 1311 - Sport Fan Co.
+
+Purchase order 1311 was placed with Sport Fan Co. on 2024-11-28 and shipped on 2024-12-07 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 1311:
+- HL Mountain Tire (P013): ordered 550, received 550, rejected 0, unit price $43.04, line total $23,671.72, due 2024-12-12
+
+Invoice amounts for purchase order 1311: subtotal $23,671.72, tax $1,893.74, freight $591.79, total due $26,157.26.

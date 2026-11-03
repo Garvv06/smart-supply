@@ -1,0 +1,9 @@
+PURCHASE ORDER 2654 - Sport Fan Co.
+
+Purchase order 2654 was placed with Sport Fan Co. on 2025-04-17 and shipped on 2025-04-26 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 2654:
+- LL Mountain Tire (P019): ordered 550, received 550, rejected 0, unit price $32.77, line total $18,023.78, due 2025-05-01
+- ML Mountain Tire (P014): ordered 550, received 550, rejected 0, unit price $37.09, line total $20,397.30, due 2025-05-01
+
+Invoice amounts for purchase order 2654: subtotal $38,421.07, tax $3,073.69, freight $960.53, total due $42,455.29.

@@ -1,0 +1,29 @@
+STORE SUMMARY - 1C Company sales data
+
+Data period: the sales data covers 2013-01-01 to 2015-10-31. It has sales from 60 shops and 21778 different items.
+
+Total units sold: 3406781 units were sold in this period in all shops.
+
+Best selling products (most units sold in the last year):
+1. Playstation Store пополнение бумажника: Карта оплаты 1000 руб.
+2. Sims 4 [PC, русская версия]
+3. Брелок Minecraft (blind-bag) Серия 1 в ассортименте
+4. FIFA 15 [PS3, русская версия]
+5. PlayStation Plus 3-месячная подписка: Карта оплаты
+
+Category sales: the category with the highest sales is Movies with 916943 units sold. Units sold in each category:
+Movies: 916943 units
+PC Games: 689098 units
+Console Games: 646774 units
+Music: 411294 units
+Gifts: 396724 units
+Accessories: 85056 units
+Books: 76341 units
+Software: 74954 units
+Payment Cards: 53883 units
+Game Consoles: 32155 units
+Batteries: 12032 units
+Blank Media: 11402 units
+Android Games: 114 units
+Mac Games: 8 units
+PC Accessories: 3 units

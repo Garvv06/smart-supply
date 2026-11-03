@@ -1,0 +1,7 @@
+SUPPLIER PROFILE - Signature Cycles
+
+Supplier ID: 1588. Account number: SIGNATUR0001. Credit rating of Signature Cycles: 2 (Excellent). Preferred supplier: yes. Active: yes.
+
+Products: of the products we track, Signature Cycles supplies: LL Road Tire (P015): price $32.71, lead time 19 days, order 100 to 1000 units; ML Road Tire (P017): price $37.37, lead time 19 days, order 100 to 1000 units.
+
+Purchase history with Signature Cycles: 43 purchase orders between 2023-01-23 and 2025-06-23, worth $1,922,989.07 in total (with tax and freight). 46864 units were received and 2885 units (6.2%) were rejected during inspection. On average the orders shipped 9.0 days after they were placed.

@@ -1,0 +1,9 @@
+PURCHASE ORDER 660 - Signature Cycles
+
+Purchase order 660 was placed with Signature Cycles on 2024-08-21 and shipped on 2024-08-30 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 660:
+- LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.35, line total $18,890.03, due 2024-09-04
+- ML Road Tire (P017): ordered 550, received 550, rejected 55, unit price $39.24, line total $21,581.17, due 2024-09-04
+
+Invoice amounts for purchase order 660: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

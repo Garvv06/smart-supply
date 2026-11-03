@@ -1,0 +1,9 @@
+PURCHASE ORDER 155 - Vista Road Bikes
+
+Purchase order 155 was placed with Vista Road Bikes on 2023-05-02 and shipped on 2023-05-11 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 155:
+- LL Mountain Tire (P019): ordered 550, received 550, rejected 0, unit price $32.25, line total $17,735.03, due 2023-05-16
+- ML Mountain Tire (P014): ordered 550, received 523, rejected 0, unit price $36.56, line total $20,108.55, due 2023-05-16
+
+Invoice amounts for purchase order 155: subtotal $37,843.57, tax $3,027.49, freight $946.09, total due $41,817.15.

@@ -1,0 +1,9 @@
+PURCHASE ORDER 3202 - Professional Athletic Consultants
+
+Purchase order 3202 was placed with Professional Athletic Consultants on 2025-06-04 and shipped on 2025-06-13 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 3202:
+- LL Road Tire (P015): ordered 550, received 550, rejected 82, unit price $34.87, line total $19,178.78, due 2025-06-18
+- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.76, line total $21,869.92, due 2025-06-18
+
+Invoice amounts for purchase order 3202: subtotal $41,048.70, tax $3,283.90, freight $1,026.22, total due $45,358.81.

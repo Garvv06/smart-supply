@@ -1,0 +1,13 @@
+PRODUCT REPORT - Patch Kit/8 Patches
+
+Product ID: P002. Product number in the dataset: PK-7098 (AdventureWorks product 873). Category: Tires and Tubes (Accessories).
+
+Description of Patch Kit/8 Patches: Includes 8 different size patches, glue and sandpaper.
+
+Price: Patch Kit/8 Patches sells for $2.29. Its standard cost is $0.86.
+
+Supplier: Patch Kit/8 Patches is bought from Green Lake Bike Company. The supplier's usual price is $0.80 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 1500 and 15000 units. 0 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Patch Kit/8 Patches is 180 units: 180 units at Finished Goods Storage.
+
+Online sales: 3187 units of Patch Kit/8 Patches were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 175 units were sold, an average of 5.8 units per day. The best month was March 2025 with 314 units. Patch Kit/8 Patches sold on 386 of 393 days.

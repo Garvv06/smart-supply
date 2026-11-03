@@ -1,0 +1,13 @@
+PRODUCT REPORT - Water Bottle - 30 oz.
+
+Product ID: P001. Product number in the dataset: WB-H098 (AdventureWorks product 870). Category: Bottles and Cages (Accessories).
+
+Description of Water Bottle - 30 oz.: AWC logo water bottle - holds 30 oz; leak-proof.
+
+Price: Water Bottle - 30 oz. sells for $4.99. Its standard cost is $1.87.
+
+Supplier: Water Bottle - 30 oz. is bought from Green Lake Bike Company. The supplier's usual price is $1.87 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 500 and 2500 units. 0 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Water Bottle - 30 oz. is 252 units: 252 units at Finished Goods Storage.
+
+Online sales: 4226 units of Water Bottle - 30 oz. were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 161 units were sold, an average of 5.4 units per day. The best month was May 2025 with 419 units. Water Bottle - 30 oz. sold on 392 of 393 days.

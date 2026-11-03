@@ -1,0 +1,10 @@
+PURCHASE ORDER 2496 - Sport Fan Co.
+
+Purchase order 2496 was placed with Sport Fan Co. on 2025-04-03 and shipped on 2025-04-12 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 2496:
+- LL Mountain Tire (P019): ordered 550, received 468, rejected 0, unit price $32.77, line total $18,023.78, due 2025-04-17
+- ML Mountain Tire (P014): ordered 550, received 550, rejected 0, unit price $37.09, line total $20,397.30, due 2025-04-17
+- HL Mountain Tire (P013): ordered 550, received 550, rejected 0, unit price $43.04, line total $23,671.72, due 2025-04-17
+
+Invoice amounts for purchase order 2496: subtotal $62,092.80, tax $4,967.42, freight $1,552.32, total due $68,612.54.

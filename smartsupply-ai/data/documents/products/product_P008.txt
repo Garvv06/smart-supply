@@ -1,0 +1,13 @@
+PRODUCT REPORT - Fender Set - Mountain
+
+Product ID: P008. Product number in the dataset: FE-6654 (AdventureWorks product 878). Category: Fenders (Accessories).
+
+Description of Fender Set - Mountain: Clip-on fenders fit most mountain bikes.
+
+Price: Fender Set - Mountain sells for $21.98. Its standard cost is $8.22.
+
+Supplier: Fender Set - Mountain is bought from Green Lake Bike Company. The supplier's usual price is $8.22 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 100 and 500 units. 150 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Fender Set - Mountain is 108 units: 108 units at Finished Goods Storage.
+
+Online sales: 2116 units of Fender Set - Mountain were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 103 units were sold, an average of 3.4 units per day. The best month was April 2025 with 212 units. Fender Set - Mountain sold on 386 of 393 days.

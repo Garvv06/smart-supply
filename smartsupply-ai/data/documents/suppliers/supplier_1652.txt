@@ -1,0 +1,7 @@
+SUPPLIER PROFILE - Victory Bikes
+
+Supplier ID: 1652. Account number: VICTORY0001. Credit rating of Victory Bikes: 5 (Below average). Preferred supplier: yes. Active: yes.
+
+Products: of the products we track, Victory Bikes supplies: Road Tire Tube (P004): price $6.22, lead time 19 days, order 100 to 1000 units; Touring Tire Tube (P012): price $5.89, lead time 19 days, order 100 to 1000 units; HL Road Tire (P020): price $41.39, lead time 19 days, order 100 to 1000 units; Touring Tire (P016): price $35.83, lead time 19 days, order 100 to 1000 units.
+
+Purchase history with Victory Bikes: 44 purchase orders between 2023-02-08 and 2025-06-24, worth $1,767,149.51 in total (with tax and freight). 67846 units were received and 1784 units (2.6%) were rejected during inspection. On average the orders shipped 9.0 days after they were placed.

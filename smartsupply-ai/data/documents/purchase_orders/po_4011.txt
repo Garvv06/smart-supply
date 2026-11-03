@@ -1,0 +1,12 @@
+PURCHASE ORDER 4011 - Green Lake Bike Company
+
+Purchase order 4011 was placed with Green Lake Bike Company on 2025-06-23 and shipped on 2025-07-18 by OVERSEAS - DELUXE. Status: Approved.
+
+Items in purchase order 4011:
+- Hitch Rack - 4-Bike: ordered 250, received 250, rejected 0, unit price $33.88, line total $8,470.00, due 2025-07-23
+- Bike Wash - Dissolver (P018): ordered 150, received 150, rejected 0, unit price $2.97, line total $445.50, due 2025-07-23
+- Fender Set - Mountain (P008): ordered 150, received 150, rejected 0, unit price $8.22, line total $1,233.00, due 2025-07-23
+- All-Purpose Bike Stand: ordered 400, received 400, rejected 0, unit price $59.46, line total $23,784.00, due 2025-07-23
+- Hydration Pack - 70 oz.: ordered 1000, received 1000, rejected 0, unit price $20.56, line total $20,560.00, due 2025-07-23
+
+Invoice amounts for purchase order 4011: subtotal $54,492.50, tax $4,359.40, freight $1,089.85, total due $59,941.75.

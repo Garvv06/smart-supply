@@ -1,0 +1,9 @@
+PURCHASE ORDER 223 - Signature Cycles
+
+Purchase order 223 was placed with Signature Cycles on 2023-08-16 and shipped on 2023-08-25 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 223:
+- LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.35, line total $18,890.03, due 2023-08-30
+- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2023-08-30
+
+Invoice amounts for purchase order 223: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

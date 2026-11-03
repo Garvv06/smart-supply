@@ -1,0 +1,7 @@
+SUPPLIER PROFILE - Vista Road Bikes
+
+Supplier ID: 1538. Account number: VISTARO0001. Credit rating of Vista Road Bikes: 3 (Above average). Preferred supplier: yes. Active: yes.
+
+Products: of the products we track, Vista Road Bikes supplies: LL Mountain Tire (P019): price $30.71, lead time 19 days, order 100 to 1000 units; ML Mountain Tire (P014): price $34.82, lead time 19 days, order 100 to 1000 units.
+
+Purchase history with Vista Road Bikes: 44 purchase orders between 2023-02-08 and 2025-06-24, worth $1,839,954.62 in total (with tax and freight). 47964 units were received and 1785 units (3.7%) were rejected during inspection. On average the orders shipped 9.0 days after they were placed.

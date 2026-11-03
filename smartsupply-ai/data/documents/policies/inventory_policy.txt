@@ -1,0 +1,39 @@
+INVENTORY POLICY - SmartSupply AI
+
+About this inventory policy: it was written by the SmartSupply team. The rules below are the rules the app uses for every product. The numbers for each product are calculated from the dataset by forecast.py.
+
+Service level: the inventory policy aims for a 95% service level, which means having enough stock in 95 out of 100 order cycles. This gives a safety factor (z) of 1.65.
+
+Safety stock: safety stock = 1.65 x forecast error x square root of the supplier lead time in days. The forecast error is the standard deviation of the daily forecast errors found when the forecast was tested on the last 3 months.
+
+Lead time: the lead time is the supplier's average number of days between placing an order and receiving the products. It comes from the supplier data.
+
+Reorder point: reorder point = average daily forecast x lead time + safety stock.
+
+When to reorder: compare the reorder point with the stock position. The stock position is the stock on hand plus the units already on order. If the stock position is at or below the reorder point, the status is Reorder Now. If it will reach the reorder point within 7 days, the status is Low. Otherwise the status is OK.
+
+How much to order: an order should cover the lead time plus 30 more days of forecast demand, plus the safety stock, minus the stock position. The quantity must be between the supplier's minimum and maximum order quantity.
+
+Who places the order: the app only suggests orders. A person checks the suggestion and places the purchase order with the supplier. Rejected units found during inspection are not added to stock.
+
+Reorder settings per product:
+Water Bottle - 30 oz. (P001): lead time 45 days, safety stock 61 units, reorder point 292 units, forecast model Random Forest
+Patch Kit/8 Patches (P002): lead time 45 days, safety stock 35 units, reorder point 296 units, forecast model Baseline (28-day average)
+Mountain Tire Tube (P003): lead time 19 days, safety stock 25 units, reorder point 137 units, forecast model Baseline (28-day average)
+Road Tire Tube (P004): lead time 19 days, safety stock 21 units, reorder point 141 units, forecast model Linear Regression
+Sport-100 Helmet, Red (P005): lead time 30 days, safety stock 33 units, reorder point 122 units, forecast model Gradient Boosting
+AWC Logo Cap (P006): lead time 45 days, safety stock 35 units, reorder point 226 units, forecast model Gradient Boosting
+Sport-100 Helmet, Blue (P007): lead time 45 days, safety stock 34 units, reorder point 174 units, forecast model Gradient Boosting
+Fender Set - Mountain (P008): lead time 45 days, safety stock 34 units, reorder point 192 units, forecast model Random Forest
+Sport-100 Helmet, Black (P009): lead time 30 days, safety stock 29 units, reorder point 152 units, forecast model Linear Regression
+Mountain Bottle Cage (P010): lead time 45 days, safety stock 35 units, reorder point 159 units, forecast model Random Forest
+Road Bottle Cage (P011): lead time 45 days, safety stock 40 units, reorder point 53 units, forecast model Baseline (28-day average)
+Touring Tire Tube (P012): lead time 19 days, safety stock 15 units, reorder point 72 units, forecast model Baseline (28-day average)
+HL Mountain Tire (P013): lead time 19 days, safety stock 19 units, reorder point 51 units, forecast model Gradient Boosting
+ML Mountain Tire (P014): lead time 19 days, safety stock 13 units, reorder point 62 units, forecast model Baseline (28-day average)
+LL Road Tire (P015): lead time 19 days, safety stock 13 units, reorder point 51 units, forecast model Baseline (28-day average)
+Touring Tire (P016): lead time 19 days, safety stock 11 units, reorder point 45 units, forecast model Baseline (28-day average)
+ML Road Tire (P017): lead time 19 days, safety stock 15 units, reorder point 57 units, forecast model Linear Regression
+Bike Wash - Dissolver (P018): lead time 45 days, safety stock 23 units, reorder point 137 units, forecast model Linear Regression
+LL Mountain Tire (P019): lead time 19 days, safety stock 11 units, reorder point 49 units, forecast model Baseline (28-day average)
+HL Road Tire (P020): lead time 19 days, safety stock 11 units, reorder point 45 units, forecast model Baseline (28-day average)

@@ -1,0 +1,38 @@
+# Applies to smartsupply-ai/ and backup_kaggle_version/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets (LLM_API_KEY, LLM_BASE_URL, ...)
+.env
+.env.*
+!.env.example
+
+# Frontend (Node / Vite)
+node_modules/
+dist/
+npm-debug.log*
+
+# SQLite database - rebuilt by member3_backend/database.py
+*.db
+*.db-journal
+
+# Raw datasets - too big for git
+# AdventureWorks and CUAD: run data/download_data.py to get them again
+**/data/adventureworks/
+**/data/cuad/
+*.part
+# Kaggle: each person downloads it from Kaggle (the competition rules do not allow sharing it)
+**/data/kaggle/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

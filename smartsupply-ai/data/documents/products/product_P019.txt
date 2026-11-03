@@ -1,0 +1,15 @@
+PRODUCT REPORT - LL Mountain Tire
+
+Product ID: P019. Product number in the dataset: TI-M267 (AdventureWorks product 928). Category: Tires and Tubes (Accessories).
+
+Description of LL Mountain Tire: Comparible traction, less expensive wire bead casing.
+
+Price: LL Mountain Tire sells for $24.99. Its standard cost is $9.35.
+
+Supplier: LL Mountain Tire is bought from Vista Road Bikes. The supplier's usual price is $30.71 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 2200 units are on order and have not arrived yet.
+
+Other supplier: LL Mountain Tire can also be bought from Sport Fan Co. for $31.21 per unit, with a lead time of 19 days.
+
+Stock: the latest stock count of LL Mountain Tire is 609 units: 240 units at Miscellaneous Storage (shelf L, bin 2); 369 units at Subassembly (shelf R, bin 1).
+
+Online sales: 862 units of LL Mountain Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 61 units were sold, an average of 2.0 units per day. The best month was March 2025 with 87 units. LL Mountain Tire sold on 337 of 393 days.

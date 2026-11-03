@@ -1,0 +1,13 @@
+PRODUCT REPORT - Road Bottle Cage
+
+Product ID: P011. Product number in the dataset: BC-R205 (AdventureWorks product 872). Category: Bottles and Cages (Accessories).
+
+Description of Road Bottle Cage: Aluminum cage is lighter than our mountain version; perfect for long distance trips.
+
+Price: Road Bottle Cage sells for $8.99. Its standard cost is $3.36.
+
+Supplier: Road Bottle Cage is bought from Green Lake Bike Company. The supplier's usual price is $3.00 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 500 and 2500 units. 0 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Road Bottle Cage is 324 units: 324 units at Finished Goods Storage.
+
+Online sales: 1703 units of Road Bottle Cage were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 10 units were sold, an average of 0.3 units per day. The best month was March 2025 with 190 units. Road Bottle Cage sold on 363 of 393 days.

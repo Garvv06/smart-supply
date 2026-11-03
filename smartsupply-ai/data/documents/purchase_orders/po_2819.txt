@@ -1,0 +1,8 @@
+PURCHASE ORDER 2819 - Victory Bikes
+
+Purchase order 2819 was placed with Victory Bikes on 2025-05-01 and shipped on 2025-05-10 by XRQ - TRUCK GROUND. Status: Complete.
+
+Items in purchase order 2819:
+- Touring Tire Tube (P012): ordered 550, received 550, rejected 0, unit price $6.18, line total $3,401.47, due 2025-05-15
+
+Invoice amounts for purchase order 2819: subtotal $3,401.47, tax $272.12, freight $85.04, total due $3,758.63.

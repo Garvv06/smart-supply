@@ -1,0 +1,9 @@
+PURCHASE ORDER 2503 - Victory Bikes
+
+Purchase order 2503 was placed with Victory Bikes on 2025-04-03 and shipped on 2025-04-12 by XRQ - TRUCK GROUND. Status: Complete.
+
+Items in purchase order 2503:
+- Road Tire Tube (P004): ordered 550, received 550, rejected 0, unit price $6.53, line total $3,592.05, due 2025-04-17
+- Touring Tire Tube (P012): ordered 550, received 550, rejected 0, unit price $6.18, line total $3,401.47, due 2025-04-17
+
+Invoice amounts for purchase order 2503: subtotal $6,993.52, tax $559.48, freight $174.84, total due $7,727.85.

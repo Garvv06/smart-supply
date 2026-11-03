@@ -1,0 +1,13 @@
+PRODUCT REPORT - AWC Logo Cap
+
+Product ID: P006. Product number in the dataset: CA-1098 (AdventureWorks product 712). Category: Caps (Clothing).
+
+Description of AWC Logo Cap: Traditional style with a flip-up brim; one-size fits all.
+
+Price: AWC Logo Cap sells for $8.99. Its standard cost is $6.92.
+
+Supplier: AWC Logo Cap is bought from Integrated Sport Products. The supplier's usual price is $6.55 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 100 and 1000 units. 0 units are on order and have not arrived yet.
+
+Stock: the latest stock count of AWC Logo Cap is 288 units: 288 units at Finished Goods Storage.
+
+Online sales: 2182 units of AWC Logo Cap were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 93 units were sold, an average of 3.1 units per day. The best month was May 2025 with 235 units. AWC Logo Cap sold on 389 of 393 days.

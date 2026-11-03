@@ -1,0 +1,15 @@
+PRODUCT REPORT - LL Road Tire
+
+Product ID: P015. Product number in the dataset: TI-R092 (AdventureWorks product 931). Category: Tires and Tubes (Accessories).
+
+Description of LL Road Tire: Same great treads as more expensive tire with a less expensive wire bead casing.
+
+Price: LL Road Tire sells for $21.49. Its standard cost is $8.04.
+
+Supplier: LL Road Tire is bought from Signature Cycles. The supplier's usual price is $32.71 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 2200 units are on order and have not arrived yet.
+
+Other supplier: LL Road Tire can also be bought from Professional Athletic Consultants for $33.21 per unit, with a lead time of 19 days.
+
+Stock: the latest stock count of LL Road Tire is 488 units: 236 units at Miscellaneous Storage (shelf L, bin 6); 252 units at Subassembly (shelf R, bin 6).
+
+Online sales: 1039 units of LL Road Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 58 units were sold, an average of 1.9 units per day. The best month was March 2025 with 110 units. LL Road Tire sold on 349 of 393 days.

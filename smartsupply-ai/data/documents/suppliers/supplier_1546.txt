@@ -1,0 +1,7 @@
+SUPPLIER PROFILE - Green Lake Bike Company
+
+Supplier ID: 1546. Account number: GREENLA0001. Credit rating of Green Lake Bike Company: 1 (Superior). Preferred supplier: yes. Active: yes.
+
+Products: of the products we track, Green Lake Bike Company supplies: Water Bottle - 30 oz. (P001): price $1.87, lead time 45 days, order 500 to 2500 units; Mountain Bottle Cage (P010): price $3.74, lead time 45 days, order 500 to 2500 units; Road Bottle Cage (P011): price $3.00, lead time 45 days, order 500 to 2500 units; Patch Kit/8 Patches (P002): price $0.80, lead time 45 days, order 1500 to 15000 units; Bike Wash - Dissolver (P018): price $3.00, lead time 45 days, order 100 to 500 units; Fender Set - Mountain (P008): price $8.22, lead time 45 days, order 100 to 500 units.
+
+Purchase history with Green Lake Bike Company: 2 purchase orders between 2024-11-08 and 2025-06-23, worth $76,348.25 in total (with tax and freight). 12950 units were received and 0 units (0.0%) were rejected during inspection. On average the orders shipped 25.0 days after they were placed.

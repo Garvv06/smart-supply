@@ -1,0 +1,9 @@
+PURCHASE ORDER 1864 - Sport Fan Co.
+
+Purchase order 1864 was placed with Sport Fan Co. on 2025-02-02 and shipped on 2025-02-11 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 1864:
+- LL Mountain Tire (P019): ordered 550, received 550, rejected 0, unit price $32.77, line total $18,023.78, due 2025-02-16
+- ML Mountain Tire (P014): ordered 550, received 550, rejected 0, unit price $37.09, line total $20,397.30, due 2025-02-16
+
+Invoice amounts for purchase order 1864: subtotal $38,421.07, tax $3,073.69, freight $960.53, total due $42,455.29.

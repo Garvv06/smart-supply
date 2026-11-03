@@ -1,0 +1,11 @@
+PURCHASE ORDER 4009 - Green Lake Bike Company
+
+Purchase order 4009 was placed with Green Lake Bike Company on 2024-11-08 and shipped on 2024-12-03 by OVERSEAS - DELUXE. Status: Approved.
+
+Items in purchase order 4009:
+- Water Bottle - 30 oz. (P001): ordered 1500, received 1500, rejected 0, unit price $1.87, line total $2,805.00, due 2024-12-08
+- Mountain Bottle Cage (P010): ordered 500, received 500, rejected 0, unit price $3.74, line total $1,870.00, due 2024-12-08
+- Road Bottle Cage (P011): ordered 1000, received 1000, rejected 0, unit price $3.36, line total $3,360.00, due 2024-12-08
+- Patch Kit/8 Patches (P002): ordered 8000, received 8000, rejected 0, unit price $0.86, line total $6,880.00, due 2024-12-08
+
+Invoice amounts for purchase order 4009: subtotal $14,915.00, tax $1,193.20, freight $298.30, total due $16,406.50.

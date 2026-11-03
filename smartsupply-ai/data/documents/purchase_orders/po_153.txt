@@ -1,0 +1,9 @@
+PURCHASE ORDER 153 - Victory Bikes
+
+Purchase order 153 was placed with Victory Bikes on 2023-05-02 and shipped on 2023-05-11 by XRQ - TRUCK GROUND. Status: Complete.
+
+Items in purchase order 153:
+- Road Tire Tube (P004): ordered 550, received 550, rejected 0, unit price $6.53, line total $3,592.05, due 2023-05-16
+- Touring Tire Tube (P012): ordered 550, received 550, rejected 0, unit price $6.18, line total $3,401.47, due 2023-05-16
+
+Invoice amounts for purchase order 153: subtotal $6,993.52, tax $559.48, freight $174.84, total due $7,727.85.

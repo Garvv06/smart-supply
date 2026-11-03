@@ -1,0 +1,8 @@
+PURCHASE ORDER 2733 - Sport Fan Co.
+
+Purchase order 2733 was placed with Sport Fan Co. on 2025-04-24 and shipped on 2025-05-03 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 2733:
+- HL Mountain Tire (P013): ordered 550, received 550, rejected 0, unit price $43.04, line total $23,671.72, due 2025-05-08
+
+Invoice amounts for purchase order 2733: subtotal $23,671.72, tax $1,893.74, freight $591.79, total due $26,157.26.

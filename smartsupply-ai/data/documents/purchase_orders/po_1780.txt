@@ -1,0 +1,10 @@
+PURCHASE ORDER 1780 - Professional Athletic Consultants
+
+Purchase order 1780 was placed with Professional Athletic Consultants on 2025-01-21 and shipped on 2025-01-30 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 1780:
+- LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.87, line total $19,178.78, due 2025-02-04
+- ML Road Tire (P017): ordered 550, received 550, rejected 55, unit price $39.76, line total $21,869.92, due 2025-02-04
+- HL Road Tire (P020): ordered 550, received 550, rejected 0, unit price $43.98, line total $24,191.47, due 2025-02-04
+
+Invoice amounts for purchase order 1780: subtotal $65,240.18, tax $5,219.21, freight $1,631.00, total due $72,090.39.

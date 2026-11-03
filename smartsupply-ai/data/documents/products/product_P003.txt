@@ -1,0 +1,13 @@
+PRODUCT REPORT - Mountain Tire Tube
+
+Product ID: P003. Product number in the dataset: TT-M928 (AdventureWorks product 921). Category: Tires and Tubes (Accessories).
+
+Description of Mountain Tire Tube: Self-sealing tube.
+
+Price: Mountain Tire Tube sells for $4.99. Its standard cost is $1.87.
+
+Supplier: Mountain Tire Tube is bought from Trikes, Inc. The supplier's usual price is $5.32 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 1100 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Mountain Tire Tube is 529 units: 286 units at Miscellaneous Storage (shelf L, bin 16); 243 units at Subassembly (shelf R, bin 15).
+
+Online sales: 3092 units of Mountain Tire Tube were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 182 units were sold, an average of 6.1 units per day. The best month was May 2025 with 284 units. Mountain Tire Tube sold on 380 of 393 days.

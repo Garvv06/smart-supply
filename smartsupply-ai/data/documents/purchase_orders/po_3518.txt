@@ -1,0 +1,11 @@
+PURCHASE ORDER 3518 - Professional Athletic Consultants
+
+Purchase order 3518 was placed with Professional Athletic Consultants on 2025-06-29 and shipped on 2025-07-08 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 3518:
+- LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.87, line total $19,178.78, due 2025-07-13
+- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.76, line total $21,869.92, due 2025-07-13
+- HL Road Tire (P020): ordered 550, received 550, rejected 0, unit price $43.98, line total $24,191.47, due 2025-07-13
+- Touring Tire (P016): ordered 550, received 550, rejected 0, unit price $38.15, line total $20,980.58, due 2025-07-13
+
+Invoice amounts for purchase order 3518: subtotal $86,220.75, tax $6,897.66, freight $2,155.52, total due $95,273.93.

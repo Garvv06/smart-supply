@@ -1,0 +1,21 @@
+product_id,name,current_stock,on_order_qty,avg_daily_demand,days_of_stock_left,lead_time_days,safety_stock,reorder_point,status,suggested_order_qty,order_value
+P001,Water Bottle - 30 oz.,252,0,5.1,48.9,45,61,292,Reorder Now,500,935.0
+P002,Patch Kit/8 Patches,180,0,5.8,31.0,45,35,296,Reorder Now,1500,1200.0
+P003,Mountain Tire Tube,529,1100,5.9,89.7,19,25,137,OK,0,0.0
+P004,Road Tire Tube,505,550,6.3,79.7,19,21,141,OK,0,0.0
+P005,"Sport-100 Helmet, Red",288,0,3.0,97.4,30,33,122,OK,0,0.0
+P006,AWC Logo Cap,288,0,4.2,67.9,45,35,226,OK,0,0.0
+P007,"Sport-100 Helmet, Blue",216,300,3.1,69.5,45,34,174,OK,0,0.0
+P008,Fender Set - Mountain,108,150,3.5,30.8,45,34,192,OK,0,0.0
+P009,"Sport-100 Helmet, Black",324,25,4.1,78.8,30,29,152,OK,0,0.0
+P010,Mountain Bottle Cage,288,0,2.8,104.5,45,35,159,OK,0,0.0
+P011,Road Bottle Cage,324,0,0.3,1080.0,45,40,53,OK,0,0.0
+P012,Touring Tire Tube,502,550,3.0,167.3,19,15,72,OK,0,0.0
+P013,HL Mountain Tire,499,1650,1.7,300.6,19,19,51,OK,0,0.0
+P014,ML Mountain Tire,669,2200,2.6,257.3,19,13,62,OK,0,0.0
+P015,LL Road Tire,488,2200,2.0,244.0,19,13,51,OK,0,0.0
+P016,Touring Tire,482,1650,1.8,267.8,19,11,45,OK,0,0.0
+P017,ML Road Tire,574,2200,2.2,263.7,19,15,57,OK,0,0.0
+P018,Bike Wash - Dissolver,36,150,2.5,14.2,45,23,137,OK,0,0.0
+P019,LL Mountain Tire,609,2200,2.0,304.5,19,11,49,OK,0,0.0
+P020,HL Road Tire,527,1650,1.8,292.8,19,11,45,OK,0,0.0

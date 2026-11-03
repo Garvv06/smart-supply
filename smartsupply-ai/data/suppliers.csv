@@ -1,0 +1,10 @@
+supplier_id,name,account_number,credit_rating,credit_rating_text,preferred,active
+1498,"Trikes, Inc.",TRIKES0001,2,Excellent,1,1
+1520,G & K Bicycle Corp.,G&KBI0001,1,Superior,1,1
+1538,Vista Road Bikes,VISTARO0001,3,Above average,1,1
+1546,Green Lake Bike Company,GREENLA0001,1,Superior,1,1
+1588,Signature Cycles,SIGNATUR0001,2,Excellent,1,1
+1632,Sport Fan Co.,SPORTFA0001,1,Superior,1,1
+1636,Integrated Sport Products,INTEGRAT0001,1,Superior,1,1
+1652,Victory Bikes,VICTORY0001,5,Below average,1,1
+1684,Professional Athletic Consultants,PROFESSI0001,1,Superior,1,1

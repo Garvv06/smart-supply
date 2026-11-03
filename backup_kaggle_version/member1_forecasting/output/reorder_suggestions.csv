@@ -1,0 +1,21 @@
+product_id,name,current_stock,avg_daily_demand,days_of_stock_left,reorder_point,status,suggested_order_qty
+P001,Playstation Store пополнение бумажника: Карта оплаты 1000 руб.,,20.2,,282,Stock not entered,750
+P002,"Sims 4 [PC, русская версия]",,22.1,,308,Stock not entered,820
+P003,Брелок Minecraft (blind-bag) Серия 1 в ассортименте,,6.9,,96,Stock not entered,250
+P004,"FIFA 15 [PS3, русская версия]",,11.5,,161,Stock not entered,430
+P005,PlayStation Plus 3-месячная подписка: Карта оплаты,,6.8,,95,Stock not entered,250
+P006,Kaspersky Internet Security Multi-Device Russian Edition. 2-Device 1 year Renewal Box,,8.0,,112,Stock not entered,300
+P007,"FIFA 15 [Xbox 360, русская версия]",,11.7,,163,Stock not entered,430
+P008,Playstation Store пополнение бумажника: Карта оплаты 2500 руб.,,7.4,,103,Stock not entered,270
+P009,"Call of Duty: Black Ops II [PС, Jewel, русская версия]",,4.2,,58,Stock not entered,160
+P010,"Sims 3: Набор для новичков [PC, русская версия]",,3.1,,43,Stock not entered,120
+P011,Элемент питания DURACELL LR06-BC2,,3.4,,47,Stock not entered,130
+P012,World of Warcraft. Карта оплаты игрового времени (online) (рус.в.) (60 дней) (Jewel),,1.4,,20,Stock not entered,50
+P013,"FIFA 15 [PC, русская версия]",,0.0,,0,Stock not entered,0
+P014,"Minecraft [Xbox 360, английская версия]",,9.5,,133,Stock not entered,350
+P015,"Medal of Honor: Warfighter [PC, русская версия]",,5.8,,81,Stock not entered,210
+P016,"Minecraft. Playstation 3 Edition [PS3, русская версия]",,4.6,,63,Stock not entered,170
+P017,"FIFA 15 [PS4, русская версия]",,8.2,,115,Stock not entered,300
+P018,PlayStation Plus 12-месячная подписка: Карта оплаты,,3.1,,43,Stock not entered,120
+P019,Kaspersky Internet Security Multi-Device Russian Edition. 2-Device 1 year Base Box,,4.6,,64,Stock not entered,170
+P020,Xbox LIVE: GOLD карта подписки 3 месяца [Цифровая версия],,1.5,,21,Stock not entered,60

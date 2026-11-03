@@ -1,0 +1,8 @@
+PURCHASE ORDER 420 - Victory Bikes
+
+Purchase order 420 was placed with Victory Bikes on 2024-08-03 and shipped on 2024-08-12 by XRQ - TRUCK GROUND. Status: Complete.
+
+Items in purchase order 420:
+- Touring Tire Tube (P012): ordered 550, received 550, rejected 0, unit price $6.18, line total $3,401.47, due 2024-08-17
+
+Invoice amounts for purchase order 420: subtotal $3,401.47, tax $272.12, freight $85.04, total due $3,758.63.

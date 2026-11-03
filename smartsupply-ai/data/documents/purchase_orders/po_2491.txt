@@ -1,0 +1,9 @@
+PURCHASE ORDER 2491 - Professional Athletic Consultants
+
+Purchase order 2491 was placed with Professional Athletic Consultants on 2025-04-02 and shipped on 2025-04-11 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 2491:
+- HL Road Tire (P020): ordered 550, received 550, rejected 0, unit price $43.98, line total $24,191.47, due 2025-04-16
+- Touring Tire (P016): ordered 550, received 550, rejected 0, unit price $38.15, line total $20,980.58, due 2025-04-16
+
+Invoice amounts for purchase order 2491: subtotal $45,172.05, tax $3,613.76, freight $1,129.30, total due $49,915.12.

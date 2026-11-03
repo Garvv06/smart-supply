@@ -1,0 +1,13 @@
+PRODUCT REPORT - Bike Wash - Dissolver
+
+Product ID: P018. Product number in the dataset: CL-9009 (AdventureWorks product 877). Category: Cleaners (Accessories).
+
+Description of Bike Wash - Dissolver: Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.
+
+Price: Bike Wash - Dissolver sells for $7.95. Its standard cost is $2.97.
+
+Supplier: Bike Wash - Dissolver is bought from Green Lake Bike Company. The supplier's usual price is $3.00 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 100 and 500 units. 150 units are on order and have not arrived yet.
+
+Stock: the latest stock count of Bike Wash - Dissolver is 36 units: 36 units at Finished Goods Storage.
+
+Online sales: 908 units of Bike Wash - Dissolver were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 42 units were sold, an average of 1.4 units per day. The best month was December 2024 with 97 units. Bike Wash - Dissolver sold on 348 of 393 days.

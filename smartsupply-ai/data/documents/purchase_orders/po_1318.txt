@@ -1,0 +1,11 @@
+PURCHASE ORDER 1318 - Victory Bikes
+
+Purchase order 1318 was placed with Victory Bikes on 2024-12-01 and shipped on 2024-12-10 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 1318:
+- HL Road Tire (P020): ordered 550, received 550, rejected 0, unit price $43.46, line total $23,902.72, due 2024-12-15
+- Touring Tire (P016): ordered 550, received 550, rejected 0, unit price $37.62, line total $20,691.83, due 2024-12-15
+- Road Tire Tube (P004): ordered 550, received 550, rejected 0, unit price $6.53, line total $3,592.05, due 2024-12-15
+- Touring Tire Tube (P012): ordered 550, received 550, rejected 0, unit price $6.18, line total $3,401.47, due 2024-12-15
+
+Invoice amounts for purchase order 1318: subtotal $51,588.07, tax $4,127.05, freight $1,289.70, total due $57,004.82.

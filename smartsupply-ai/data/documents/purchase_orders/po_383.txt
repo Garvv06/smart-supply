@@ -1,0 +1,8 @@
+PURCHASE ORDER 383 - Sport Fan Co.
+
+Purchase order 383 was placed with Sport Fan Co. on 2024-05-28 and shipped on 2024-06-06 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 383:
+- HL Mountain Tire (P013): ordered 550, received 550, rejected 0, unit price $43.04, line total $23,671.72, due 2024-06-11
+
+Invoice amounts for purchase order 383: subtotal $23,671.72, tax $1,893.74, freight $591.79, total due $26,157.26.

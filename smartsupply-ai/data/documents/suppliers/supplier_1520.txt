@@ -1,0 +1,7 @@
+SUPPLIER PROFILE - G & K Bicycle Corp.
+
+Supplier ID: 1520. Account number: G&KBI0001. Credit rating of G & K Bicycle Corp.: 1 (Superior). Preferred supplier: yes. Active: yes.
+
+Products: of the products we track, G & K Bicycle Corp. supplies: Sport-100 Helmet, Red (P005): price $13.25, lead time 30 days, order 4 to 200 units; Sport-100 Helmet, Black (P009): price $13.25, lead time 30 days, order 4 to 200 units; Sport-100 Helmet, Blue (P007): price $13.88, lead time 45 days, order 50 to 750 units.
+
+Purchase history with G & K Bicycle Corp.: 1 purchase orders between 2025-02-10 and 2025-02-10, worth $5,036.15 in total (with tax and freight). 60 units were received and 0 units (0.0%) were rejected during inspection. On average the orders shipped 25.0 days after they were placed.

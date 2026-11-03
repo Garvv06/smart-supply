@@ -1,0 +1,9 @@
+PURCHASE ORDER 4003 - Integrated Sport Products
+
+Purchase order 4003 was placed with Integrated Sport Products on 2025-05-13 and shipped on 2025-06-07 by OVERSEAS - DELUXE. Status: Approved.
+
+Items in purchase order 4003:
+- AWC Logo Cap (P006): ordered 630, received 630, rejected 0, unit price $6.92, line total $4,359.60, due 2025-06-12
+- Long-Sleeve Logo Jersey, S: ordered 600, received 600, rejected 0, unit price $38.49, line total $23,094.00, due 2024-12-02
+
+Invoice amounts for purchase order 4003: subtotal $27,453.60, tax $2,196.29, freight $549.07, total due $30,198.96.

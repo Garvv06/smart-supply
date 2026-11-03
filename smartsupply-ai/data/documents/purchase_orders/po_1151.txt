@@ -1,0 +1,9 @@
+PURCHASE ORDER 1151 - Signature Cycles
+
+Purchase order 1151 was placed with Signature Cycles on 2024-11-11 and shipped on 2024-11-20 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 1151:
+- LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.35, line total $18,890.03, due 2024-11-25
+- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2024-11-25
+
+Invoice amounts for purchase order 1151: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

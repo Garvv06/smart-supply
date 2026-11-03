@@ -1,0 +1,10 @@
+PURCHASE ORDER 4001 - G & K Bicycle Corp.
+
+Purchase order 4001 was placed with G & K Bicycle Corp. on 2025-02-10 and shipped on 2025-03-07 by OVERSEAS - DELUXE. Status: Approved.
+
+Items in purchase order 4001:
+- Sport-100 Helmet, Red (P005): ordered 25, received 20, rejected 0, unit price $13.09, line total $327.16, due 2025-03-12
+- Sport-100 Helmet, Black (P009): ordered 25, received 20, rejected 0, unit price $13.09, line total $327.16, due 2025-09-21
+- Sport-100 Helmet, Blue (P007): ordered 300, received 20, rejected 0, unit price $13.08, line total $3,924.00, due 2025-07-01
+
+Invoice amounts for purchase order 4001: subtotal $4,578.31, tax $366.27, freight $91.57, total due $5,036.15.

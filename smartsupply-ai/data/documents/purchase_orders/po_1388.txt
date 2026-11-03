@@ -1,0 +1,9 @@
+PURCHASE ORDER 1388 - Signature Cycles
+
+Purchase order 1388 was placed with Signature Cycles on 2024-12-08 and shipped on 2024-12-17 by CARGO TRANSPORT 5. Status: Complete.
+
+Items in purchase order 1388:
+- LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.35, line total $18,890.03, due 2024-12-22
+- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2024-12-22
+
+Invoice amounts for purchase order 1388: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

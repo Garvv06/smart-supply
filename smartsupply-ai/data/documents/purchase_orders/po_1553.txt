@@ -1,0 +1,9 @@
+PURCHASE ORDER 1553 - Trikes, Inc.
+
+Purchase order 1553 was placed with Trikes, Inc. on 2024-12-25 and shipped on 2025-01-03 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 1553:
+- HL Mountain Tire (P013): ordered 550, received 550, rejected 0, unit price $42.51, line total $23,382.97, due 2025-01-08
+- Mountain Tire Tube (P003): ordered 550, received 550, rejected 0, unit price $5.59, line total $3,072.30, due 2025-01-08
+
+Invoice amounts for purchase order 1553: subtotal $26,455.28, tax $2,116.42, freight $661.38, total due $29,233.08.

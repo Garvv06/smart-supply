@@ -1,0 +1,15 @@
+PRODUCT REPORT - Touring Tire
+
+Product ID: P016. Product number in the dataset: TI-T723 (AdventureWorks product 934). Category: Tires and Tubes (Accessories).
+
+Description of Touring Tire: High-density rubber.
+
+Price: Touring Tire sells for $28.99. Its standard cost is $10.84.
+
+Supplier: Touring Tire is bought from Victory Bikes. The supplier's usual price is $35.83 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 1650 units are on order and have not arrived yet.
+
+Other supplier: Touring Tire can also be bought from Professional Athletic Consultants for $36.33 per unit, with a lead time of 19 days.
+
+Stock: the latest stock count of Touring Tire is 482 units: 233 units at Miscellaneous Storage (shelf L, bin 11); 249 units at Subassembly (shelf R, bin 11).
+
+Online sales: 933 units of Touring Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 54 units were sold, an average of 1.8 units per day. The best month was March 2025 with 102 units. Touring Tire sold on 338 of 393 days.

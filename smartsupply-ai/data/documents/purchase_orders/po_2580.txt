@@ -1,0 +1,9 @@
+PURCHASE ORDER 2580 - Trikes, Inc.
+
+Purchase order 2580 was placed with Trikes, Inc. on 2025-04-10 and shipped on 2025-04-19 by OVERNIGHT J-FAST. Status: Complete.
+
+Items in purchase order 2580:
+- HL Mountain Tire (P013): ordered 550, received 550, rejected 0, unit price $42.51, line total $23,382.97, due 2025-04-24
+- Mountain Tire Tube (P003): ordered 550, received 550, rejected 55, unit price $5.59, line total $3,072.30, due 2025-04-24
+
+Invoice amounts for purchase order 2580: subtotal $26,455.28, tax $2,116.42, freight $661.38, total due $29,233.08.
