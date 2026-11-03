@@ -10,4 +10,4 @@ Supplier: Road Bottle Cage is bought from Green Lake Bike Company. The supplier'
 
 Stock: the latest stock count of Road Bottle Cage is 324 units: 324 units at Finished Goods Storage.
 
-Online sales: 1703 units of Road Bottle Cage were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 10 units were sold, an average of 0.3 units per day. The best month was March 2025 with 190 units. Road Bottle Cage sold on 363 of 393 days.
+Online sales: 1693 units of Road Bottle Cage were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 188 units were sold, an average of 6.3 units per day. The best month was March 2025 with 190 units. Road Bottle Cage sold on 353 of 362 days.

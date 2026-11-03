@@ -1,15 +1,15 @@
-PRODUCT REPORT - Touring Tire
+PRODUCT REPORT - ML Road Tire
 
-Product ID: P016. Product number in the dataset: TI-T723 (AdventureWorks product 934). Category: Tires and Tubes (Accessories).
+Product ID: P016. Product number in the dataset: TI-R628 (AdventureWorks product 932). Category: Tires and Tubes (Accessories).
 
-Description of Touring Tire: High-density rubber.
+Description of ML Road Tire: Higher density rubber.
 
-Price: Touring Tire sells for $28.99. Its standard cost is $10.84.
+Price: ML Road Tire sells for $24.99. Its standard cost is $9.35.
 
-Supplier: Touring Tire is bought from Victory Bikes. The supplier's usual price is $35.83 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 1650 units are on order and have not arrived yet.
+Supplier: ML Road Tire is bought from Signature Cycles. The supplier's usual price is $37.37 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 2750 units are on order and have not arrived yet.
 
-Other supplier: Touring Tire can also be bought from Professional Athletic Consultants for $36.33 per unit, with a lead time of 19 days.
+Other supplier: ML Road Tire can also be bought from Professional Athletic Consultants for $37.87 per unit, with a lead time of 19 days.
 
-Stock: the latest stock count of Touring Tire is 482 units: 233 units at Miscellaneous Storage (shelf L, bin 11); 249 units at Subassembly (shelf R, bin 11).
+Stock: the latest stock count of ML Road Tire is 574 units: 382 units at Miscellaneous Storage (shelf L, bin 8); 192 units at Subassembly (shelf R, bin 7).
 
-Online sales: 933 units of Touring Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 54 units were sold, an average of 1.8 units per day. The best month was March 2025 with 102 units. Touring Tire sold on 338 of 393 days.
+Online sales: 888 units of ML Road Tire were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 105 units were sold, an average of 3.5 units per day. The best month was May 2025 with 105 units. ML Road Tire sold on 320 of 362 days.

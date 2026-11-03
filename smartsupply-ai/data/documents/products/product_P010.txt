@@ -10,4 +10,4 @@ Supplier: Mountain Bottle Cage is bought from Green Lake Bike Company. The suppl
 
 Stock: the latest stock count of Mountain Bottle Cage is 288 units: 288 units at Finished Goods Storage.
 
-Online sales: 2014 units of Mountain Bottle Cage were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 80 units were sold, an average of 2.7 units per day. The best month was May 2025 with 215 units. Mountain Bottle Cage sold on 383 of 393 days.
+Online sales: 1930 units of Mountain Bottle Cage were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 209 units were sold, an average of 7.0 units per day. The best month was May 2025 with 204 units. Mountain Bottle Cage sold on 355 of 362 days.

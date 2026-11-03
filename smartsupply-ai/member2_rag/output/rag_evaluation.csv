@@ -1,0 +1,223 @@
+group,question,expected_source,found_source,top1_source,top3_source,answer_in_best,answer_in_top3
+Products,What is the price of Water Bottle - 30 oz.?,products/product_P001.txt,products/product_P001.txt,True,True,True,True
+Products,Who supplies Water Bottle - 30 oz.?,products/product_P001.txt,products/product_P001.txt,True,True,False,False
+Products,What is the lead time for Water Bottle - 30 oz.?,products/product_P001.txt,products/product_P001.txt,True,True,False,False
+Products,What is the price of Patch Kit/8 Patches?,products/product_P002.txt,products/product_P002.txt,True,True,True,True
+Products,Who supplies Patch Kit/8 Patches?,products/product_P002.txt,products/product_P002.txt,True,True,False,False
+Products,What is the lead time for Patch Kit/8 Patches?,products/product_P002.txt,products/product_P002.txt,True,True,False,False
+Products,What is the price of Mountain Tire Tube?,products/product_P003.txt,products/product_P003.txt,True,True,True,True
+Products,Who supplies Mountain Tire Tube?,products/product_P003.txt,products/product_P003.txt,True,True,False,False
+Products,What is the lead time for Mountain Tire Tube?,products/product_P003.txt,products/product_P003.txt,True,True,False,True
+Products,What is the price of Road Tire Tube?,products/product_P004.txt,products/product_P004.txt,True,True,True,True
+Products,Who supplies Road Tire Tube?,products/product_P004.txt,products/product_P004.txt,True,True,False,False
+Products,What is the lead time for Road Tire Tube?,products/product_P004.txt,products/product_P004.txt,True,True,False,True
+Products,"What is the price of Sport-100 Helmet, Red?",products/product_P005.txt,products/product_P005.txt,True,True,True,True
+Products,"Who supplies Sport-100 Helmet, Red?",products/product_P005.txt,products/product_P005.txt,True,True,False,False
+Products,"What is the lead time for Sport-100 Helmet, Red?",products/product_P005.txt,products/product_P005.txt,True,True,False,False
+Products,What is the price of AWC Logo Cap?,products/product_P006.txt,products/product_P006.txt,True,True,True,True
+Products,Who supplies AWC Logo Cap?,products/product_P006.txt,products/product_P006.txt,True,True,False,False
+Products,What is the lead time for AWC Logo Cap?,products/product_P006.txt,products/product_P006.txt,True,True,False,False
+Products,"What is the price of Sport-100 Helmet, Blue?",products/product_P007.txt,products/product_P007.txt,True,True,True,True
+Products,"Who supplies Sport-100 Helmet, Blue?",products/product_P007.txt,products/product_P007.txt,True,True,False,False
+Products,"What is the lead time for Sport-100 Helmet, Blue?",products/product_P007.txt,products/product_P007.txt,True,True,False,False
+Products,What is the price of Fender Set - Mountain?,products/product_P008.txt,products/product_P008.txt,True,True,True,True
+Products,Who supplies Fender Set - Mountain?,products/product_P008.txt,products/product_P008.txt,True,True,False,False
+Products,What is the lead time for Fender Set - Mountain?,products/product_P008.txt,products/product_P008.txt,True,True,False,False
+Products,"What is the price of Sport-100 Helmet, Black?",products/product_P009.txt,products/product_P009.txt,True,True,True,True
+Products,"Who supplies Sport-100 Helmet, Black?",products/product_P009.txt,products/product_P009.txt,True,True,False,False
+Products,"What is the lead time for Sport-100 Helmet, Black?",products/product_P009.txt,products/product_P009.txt,True,True,False,False
+Products,What is the price of Mountain Bottle Cage?,products/product_P010.txt,products/product_P010.txt,True,True,True,True
+Products,Who supplies Mountain Bottle Cage?,products/product_P010.txt,products/product_P010.txt,True,True,False,False
+Products,What is the lead time for Mountain Bottle Cage?,products/product_P010.txt,products/product_P010.txt,True,True,False,False
+Products,What is the price of Road Bottle Cage?,products/product_P011.txt,products/product_P011.txt,True,True,True,True
+Products,Who supplies Road Bottle Cage?,products/product_P011.txt,products/product_P011.txt,True,True,False,False
+Products,What is the lead time for Road Bottle Cage?,products/product_P011.txt,products/product_P011.txt,True,True,False,False
+Products,What is the price of Touring Tire Tube?,products/product_P012.txt,products/product_P012.txt,True,True,True,True
+Products,Who supplies Touring Tire Tube?,products/product_P012.txt,products/product_P012.txt,True,True,False,False
+Products,What is the lead time for Touring Tire Tube?,products/product_P012.txt,products/product_P012.txt,True,True,False,True
+Products,What is the price of HL Mountain Tire?,products/product_P013.txt,products/product_P013.txt,True,True,True,True
+Products,Who supplies HL Mountain Tire?,products/product_P013.txt,products/product_P013.txt,True,True,False,False
+Products,What is the lead time for HL Mountain Tire?,products/product_P013.txt,products/product_P013.txt,True,True,True,True
+Products,What is the price of ML Mountain Tire?,products/product_P014.txt,products/product_P014.txt,True,True,True,True
+Products,Who supplies ML Mountain Tire?,products/product_P014.txt,products/product_P014.txt,True,True,False,False
+Products,What is the lead time for ML Mountain Tire?,products/product_P014.txt,products/product_P014.txt,True,True,True,True
+Products,What is the price of LL Road Tire?,products/product_P015.txt,products/product_P015.txt,True,True,True,True
+Products,Who supplies LL Road Tire?,products/product_P015.txt,products/product_P015.txt,True,True,False,False
+Products,What is the lead time for LL Road Tire?,products/product_P015.txt,products/product_P015.txt,True,True,True,True
+Products,What is the price of ML Road Tire?,products/product_P016.txt,products/product_P016.txt,True,True,True,True
+Products,Who supplies ML Road Tire?,products/product_P016.txt,products/product_P016.txt,True,True,False,False
+Products,What is the lead time for ML Road Tire?,products/product_P016.txt,products/product_P016.txt,True,True,True,True
+Products,What is the price of Touring Tire?,products/product_P017.txt,products/product_P017.txt,True,True,True,True
+Products,Who supplies Touring Tire?,products/product_P017.txt,products/product_P017.txt,True,True,False,False
+Products,What is the lead time for Touring Tire?,products/product_P017.txt,products/product_P017.txt,True,True,True,True
+Products,What is the price of Bike Wash - Dissolver?,products/product_P018.txt,products/product_P018.txt,True,True,True,True
+Products,Who supplies Bike Wash - Dissolver?,products/product_P018.txt,products/product_P018.txt,True,True,False,False
+Products,What is the lead time for Bike Wash - Dissolver?,products/product_P018.txt,products/product_P018.txt,True,True,False,True
+Products,What is the price of HL Road Tire?,products/product_P019.txt,products/product_P019.txt,True,True,True,True
+Products,Who supplies HL Road Tire?,products/product_P019.txt,products/product_P019.txt,True,True,False,False
+Products,What is the lead time for HL Road Tire?,products/product_P019.txt,products/product_P019.txt,True,True,True,True
+Products,What is the price of LL Mountain Tire?,products/product_P020.txt,products/product_P020.txt,True,True,True,True
+Products,Who supplies LL Mountain Tire?,products/product_P020.txt,products/product_P020.txt,True,True,False,False
+Products,What is the lead time for LL Mountain Tire?,products/product_P020.txt,products/product_P020.txt,True,True,True,True
+Suppliers,"What is the credit rating of Trikes, Inc.?",suppliers/supplier_1498.txt,suppliers/supplier_1498.txt,True,True,True,True
+Suppliers,What is the credit rating of G & K Bicycle Corp.?,suppliers/supplier_1520.txt,suppliers/supplier_1520.txt,True,True,True,True
+Suppliers,What is the credit rating of Vista Road Bikes?,suppliers/supplier_1538.txt,suppliers/supplier_1538.txt,True,True,True,True
+Suppliers,What is the credit rating of Green Lake Bike Company?,suppliers/supplier_1546.txt,suppliers/supplier_1546.txt,True,True,True,True
+Suppliers,What is the credit rating of Signature Cycles?,suppliers/supplier_1588.txt,suppliers/supplier_1588.txt,True,True,True,True
+Suppliers,What is the credit rating of Sport Fan Co.?,suppliers/supplier_1632.txt,suppliers/supplier_1632.txt,True,True,True,True
+Suppliers,What is the credit rating of Integrated Sport Products?,suppliers/supplier_1636.txt,suppliers/supplier_1636.txt,True,True,True,True
+Suppliers,What is the credit rating of Victory Bikes?,suppliers/supplier_1652.txt,suppliers/supplier_1652.txt,True,True,True,True
+Suppliers,What is the credit rating of Professional Athletic Consultants?,suppliers/supplier_1684.txt,suppliers/supplier_1684.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 2968?,purchase_orders/po_2968.txt,purchase_orders/po_2968.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 2970?,purchase_orders/po_2970.txt,purchase_orders/po_2970.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 2975?,purchase_orders/po_2975.txt,purchase_orders/po_2975.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 2977?,purchase_orders/po_2977.txt,purchase_orders/po_2977.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 2979?,purchase_orders/po_2979.txt,purchase_orders/po_2979.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3044?,purchase_orders/po_3044.txt,purchase_orders/po_3044.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3047?,purchase_orders/po_3047.txt,purchase_orders/po_3047.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3049?,purchase_orders/po_3049.txt,purchase_orders/po_3049.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3054?,purchase_orders/po_3054.txt,purchase_orders/po_3054.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3056?,purchase_orders/po_3056.txt,purchase_orders/po_3056.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3058?,purchase_orders/po_3058.txt,purchase_orders/po_3058.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3123?,purchase_orders/po_3123.txt,purchase_orders/po_3123.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3126?,purchase_orders/po_3126.txt,purchase_orders/po_3126.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3128?,purchase_orders/po_3128.txt,purchase_orders/po_3128.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3133?,purchase_orders/po_3133.txt,purchase_orders/po_3133.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3135?,purchase_orders/po_3135.txt,purchase_orders/po_3135.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 3137?,purchase_orders/po_3137.txt,purchase_orders/po_3137.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 4001?,purchase_orders/po_4001.txt,purchase_orders/po_4001.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 4003?,purchase_orders/po_4003.txt,purchase_orders/po_4003.txt,True,True,True,True
+Purchase orders,What was the total due for purchase order 4009?,purchase_orders/po_4009.txt,purchase_orders/po_4009.txt,True,True,True,True
+Contracts,When does the LohaCompanyltd supply agreement expire?,contracts/contract_LohaCompanyltd.txt,contracts/contract_LohaCompanyltd.txt,True,True,False,False
+Contracts,Which law governs the LohaCompanyltd supply agreement?,contracts/contract_LohaCompanyltd.txt,contracts/contract_LohaCompanyltd.txt,True,True,False,False
+Contracts,How long is the warranty in the LohaCompanyltd supply agreement?,contracts/contract_LohaCompanyltd.txt,contracts/contract_LohaCompanyltd.txt,True,True,False,False
+Contracts,What insurance is required by the LohaCompanyltd supply agreement?,contracts/contract_LohaCompanyltd.txt,contracts/contract_LohaCompanyltd.txt,True,True,False,False
+Contracts,When does the ReynoldsConsumerProductsInc supply agreement expire?,contracts/contract_ReynoldsConsumerProductsInc.txt,contracts/contract_ReynoldsConsumerProductsInc.txt,True,True,False,False
+Contracts,Which law governs the ReynoldsConsumerProductsInc supply agreement?,contracts/contract_ReynoldsConsumerProductsInc.txt,contracts/contract_ReynoldsConsumerProductsInc.txt,True,True,False,False
+Contracts,Is liability capped in the ReynoldsConsumerProductsInc supply agreement?,contracts/contract_ReynoldsConsumerProductsInc.txt,contracts/contract_ReynoldsConsumerProductsInc.txt,True,True,False,False
+Contracts,What insurance is required by the ReynoldsConsumerProductsInc supply agreement?,contracts/contract_ReynoldsConsumerProductsInc.txt,contracts/contract_ReynoldsConsumerProductsInc.txt,True,True,False,True
+Contracts,When does the VERICELCORP supply agreement expire?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,False
+Contracts,How does the VERICELCORP supply agreement renew?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,False
+Contracts,Which law governs the VERICELCORP supply agreement?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,True
+Contracts,What is the minimum purchase commitment in the VERICELCORP supply agreement?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,False
+Contracts,What audit rights are in the VERICELCORP supply agreement?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,True
+Contracts,Is liability capped in the VERICELCORP supply agreement?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,False
+Contracts,How long is the warranty in the VERICELCORP supply agreement?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,False
+Contracts,What insurance is required by the VERICELCORP supply agreement?,contracts/contract_VERICELCORP.txt,contracts/contract_VERICELCORP.txt,True,True,False,True
+Contracts,Which law governs the MEDIWOUNDLTD supply agreement?,contracts/contract_MEDIWOUNDLTD.txt,contracts/contract_MEDIWOUNDLTD.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the MEDIWOUNDLTD supply agreement?,contracts/contract_MEDIWOUNDLTD.txt,contracts/contract_MEDIWOUNDLTD.txt,True,True,False,False
+Contracts,What audit rights are in the MEDIWOUNDLTD supply agreement?,contracts/contract_MEDIWOUNDLTD.txt,contracts/contract_MEDIWOUNDLTD.txt,True,True,False,False
+Contracts,Is liability capped in the MEDIWOUNDLTD supply agreement?,contracts/contract_MEDIWOUNDLTD.txt,contracts/contract_MEDIWOUNDLTD.txt,True,True,False,False
+Contracts,How long is the warranty in the MEDIWOUNDLTD supply agreement?,contracts/contract_MEDIWOUNDLTD.txt,contracts/contract_MEDIWOUNDLTD.txt,True,True,False,False
+Contracts,What insurance is required by the MEDIWOUNDLTD supply agreement?,contracts/contract_MEDIWOUNDLTD.txt,contracts/contract_MEDIWOUNDLTD.txt,True,True,False,True
+Contracts,When does the UpjohnInc supply agreement expire?,contracts/contract_UpjohnInc.txt,contracts/contract_UpjohnInc.txt,True,True,False,False
+Contracts,How does the UpjohnInc supply agreement renew?,contracts/contract_UpjohnInc.txt,contracts/contract_UpjohnInc.txt,True,True,False,False
+Contracts,Which law governs the UpjohnInc supply agreement?,contracts/contract_UpjohnInc.txt,contracts/contract_UpjohnInc.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the UpjohnInc supply agreement?,contracts/contract_UpjohnInc.txt,contracts/contract_UpjohnInc.txt,True,True,False,False
+Contracts,What audit rights are in the UpjohnInc supply agreement?,contracts/contract_UpjohnInc.txt,contracts/contract_UpjohnInc.txt,True,True,False,False
+Contracts,Is liability capped in the UpjohnInc supply agreement?,contracts/contract_UpjohnInc.txt,contracts/contract_VERICELCORP.txt,False,True,False,False
+Contracts,How long is the warranty in the UpjohnInc supply agreement?,contracts/contract_UpjohnInc.txt,contracts/contract_UpjohnInc.txt,True,True,False,False
+Contracts,What insurance is required by the UpjohnInc supply agreement?,contracts/contract_UpjohnInc.txt,contracts/contract_UpjohnInc.txt,True,True,True,True
+Contracts,"When does the Columbia Laboratories, (Bermuda) Ltd. supply agreement expire?",contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,True,True,False,False
+Contracts,"Which law governs the Columbia Laboratories, (Bermuda) Ltd. supply agreement?",contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,True,True,False,False
+Contracts,"What is the minimum purchase commitment in the Columbia Laboratories, (Bermuda) Ltd. supply agreement?",contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,True,True,False,False
+Contracts,"What audit rights are in the Columbia Laboratories, (Bermuda) Ltd. supply agreement?",contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,True,True,False,False
+Contracts,"What insurance is required by the Columbia Laboratories, (Bermuda) Ltd. supply agreement?",contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,contracts/contract_Columbia_Laboratories_Bermuda_Ltd.txt,True,True,False,False
+Contracts,"When does the BELLRINGBRANDS,INC supply agreement expire?",contracts/contract_BELLRINGBRANDS_INC.txt,contracts/contract_BELLRINGBRANDS_INC.txt,True,True,False,False
+Contracts,"How does the BELLRINGBRANDS,INC supply agreement renew?",contracts/contract_BELLRINGBRANDS_INC.txt,contracts/contract_BELLRINGBRANDS_INC.txt,True,True,False,True
+Contracts,"Which law governs the BELLRINGBRANDS,INC supply agreement?",contracts/contract_BELLRINGBRANDS_INC.txt,contracts/contract_BELLRINGBRANDS_INC.txt,True,True,False,True
+Contracts,"What audit rights are in the BELLRINGBRANDS,INC supply agreement?",contracts/contract_BELLRINGBRANDS_INC.txt,contracts/contract_BELLRINGBRANDS_INC.txt,True,True,False,False
+Contracts,"Is liability capped in the BELLRINGBRANDS,INC supply agreement?",contracts/contract_BELLRINGBRANDS_INC.txt,contracts/contract_BELLRINGBRANDS_INC.txt,True,True,False,True
+Contracts,"What insurance is required by the BELLRINGBRANDS,INC supply agreement?",contracts/contract_BELLRINGBRANDS_INC.txt,contracts/contract_BELLRINGBRANDS_INC.txt,True,True,False,True
+Contracts,"When does the BELLICUMPHARMACEUTICALS,INC supply agreement expire?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,True,True,False,False
+Contracts,"How does the BELLICUMPHARMACEUTICALS,INC supply agreement renew?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,True,True,False,False
+Contracts,"Which law governs the BELLICUMPHARMACEUTICALS,INC supply agreement?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,True,True,False,False
+Contracts,"What is the minimum purchase commitment in the BELLICUMPHARMACEUTICALS,INC supply agreement?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,True,True,True,True
+Contracts,"What audit rights are in the BELLICUMPHARMACEUTICALS,INC supply agreement?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,True,True,False,False
+Contracts,"Is liability capped in the BELLICUMPHARMACEUTICALS,INC supply agreement?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_VERICELCORP.txt,False,True,False,False
+Contracts,"How long is the warranty in the BELLICUMPHARMACEUTICALS,INC supply agreement?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,True,True,False,False
+Contracts,"What insurance is required by the BELLICUMPHARMACEUTICALS,INC supply agreement?",contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,contracts/contract_BELLICUMPHARMACEUTICALS_INC.txt,True,True,False,False
+Contracts,When does the FUSIONPHARMACEUTICALSINC supply agreement expire?,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,True,True,False,False
+Contracts,How does the FUSIONPHARMACEUTICALSINC supply agreement renew?,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the FUSIONPHARMACEUTICALSINC supply agreement?,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,True,True,False,False
+Contracts,What audit rights are in the FUSIONPHARMACEUTICALSINC supply agreement?,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,True,True,False,False
+Contracts,Is liability capped in the FUSIONPHARMACEUTICALSINC supply agreement?,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,True,True,False,False
+Contracts,How long is the warranty in the FUSIONPHARMACEUTICALSINC supply agreement?,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,True,True,False,False
+Contracts,What insurance is required by the FUSIONPHARMACEUTICALSINC supply agreement?,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,contracts/contract_FUSIONPHARMACEUTICALSINC.txt,True,True,False,False
+Contracts,"Which law governs the GRIDIRONBIONUTRIENTS,INC supply agreement?",contracts/contract_GRIDIRONBIONUTRIENTS_INC.txt,contracts/contract_GRIDIRONBIONUTRIENTS_INC.txt,True,True,False,True
+Contracts,When does the HEMISPHERX supply agreement expire?,contracts/contract_HEMISPHERX.txt,contracts/contract_HEMISPHERX.txt,True,True,False,False
+Contracts,How does the HEMISPHERX supply agreement renew?,contracts/contract_HEMISPHERX.txt,contracts/contract_HEMISPHERX.txt,True,True,False,False
+Contracts,Which law governs the HEMISPHERX supply agreement?,contracts/contract_HEMISPHERX.txt,contracts/contract_HEMISPHERX.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the HEMISPHERX supply agreement?,contracts/contract_HEMISPHERX.txt,contracts/contract_HEMISPHERX.txt,True,True,False,False
+Contracts,What audit rights are in the HEMISPHERX supply agreement?,contracts/contract_HEMISPHERX.txt,contracts/contract_HEMISPHERX.txt,True,True,False,True
+Contracts,Is liability capped in the HEMISPHERX supply agreement?,contracts/contract_HEMISPHERX.txt,contracts/contract_HEMISPHERX.txt,True,True,False,False
+Contracts,How long is the warranty in the HEMISPHERX supply agreement?,contracts/contract_HEMISPHERX.txt,contracts/contract_HEMISPHERX.txt,True,True,False,False
+Contracts,"When does the INTERSECTENT,INC supply agreement expire?",contracts/contract_INTERSECTENT_INC.txt,contracts/contract_INTERSECTENT_INC.txt,True,True,False,False
+Contracts,"Which law governs the INTERSECTENT,INC supply agreement?",contracts/contract_INTERSECTENT_INC.txt,contracts/contract_INTERSECTENT_INC.txt,True,True,False,False
+Contracts,"What audit rights are in the INTERSECTENT,INC supply agreement?",contracts/contract_INTERSECTENT_INC.txt,contracts/contract_INTERSECTENT_INC.txt,True,True,False,False
+Contracts,"Is liability capped in the INTERSECTENT,INC supply agreement?",contracts/contract_INTERSECTENT_INC.txt,contracts/contract_INTERSECTENT_INC.txt,True,True,False,False
+Contracts,"How long is the warranty in the INTERSECTENT,INC supply agreement?",contracts/contract_INTERSECTENT_INC.txt,contracts/contract_INTERSECTENT_INC.txt,True,True,False,False
+Contracts,"What insurance is required by the INTERSECTENT,INC supply agreement?",contracts/contract_INTERSECTENT_INC.txt,contracts/contract_INTERSECTENT_INC.txt,True,True,False,False
+Contracts,"When does the VAPOTHERM, INC. supply agreement expire?",contracts/contract_VAPOTHERM_INC.txt,contracts/contract_VAPOTHERM_INC.txt,True,True,False,False
+Contracts,"How does the VAPOTHERM, INC. supply agreement renew?",contracts/contract_VAPOTHERM_INC.txt,contracts/contract_VAPOTHERM_INC.txt,True,True,False,False
+Contracts,"Which law governs the VAPOTHERM, INC. supply agreement?",contracts/contract_VAPOTHERM_INC.txt,contracts/contract_VAPOTHERM_INC.txt,True,True,False,False
+Contracts,"What is the minimum purchase commitment in the VAPOTHERM, INC. supply agreement?",contracts/contract_VAPOTHERM_INC.txt,contracts/contract_VAPOTHERM_INC.txt,True,True,False,False
+Contracts,"What audit rights are in the VAPOTHERM, INC. supply agreement?",contracts/contract_VAPOTHERM_INC.txt,contracts/contract_VAPOTHERM_INC.txt,True,True,False,False
+Contracts,"Is liability capped in the VAPOTHERM, INC. supply agreement?",contracts/contract_VAPOTHERM_INC.txt,contracts/contract_VAPOTHERM_INC.txt,True,True,False,False
+Contracts,"What insurance is required by the VAPOTHERM, INC. supply agreement?",contracts/contract_VAPOTHERM_INC.txt,contracts/contract_VAPOTHERM_INC.txt,True,True,False,True
+Contracts,When does the AgapeAtpCorp supply agreement expire?,contracts/contract_AgapeAtpCorp.txt,contracts/contract_AgapeAtpCorp.txt,True,True,False,False
+Contracts,How does the AgapeAtpCorp supply agreement renew?,contracts/contract_AgapeAtpCorp.txt,contracts/contract_AgapeAtpCorp.txt,True,True,False,False
+Contracts,Which law governs the AgapeAtpCorp supply agreement?,contracts/contract_AgapeAtpCorp.txt,contracts/contract_AgapeAtpCorp.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the AgapeAtpCorp supply agreement?,contracts/contract_AgapeAtpCorp.txt,contracts/contract_AgapeAtpCorp.txt,True,True,False,False
+Contracts,How long is the warranty in the AgapeAtpCorp supply agreement?,contracts/contract_AgapeAtpCorp.txt,contracts/contract_AgapeAtpCorp.txt,True,True,False,False
+Contracts,What insurance is required by the AgapeAtpCorp supply agreement?,contracts/contract_AgapeAtpCorp.txt,contracts/contract_AgapeAtpCorp.txt,True,True,False,False
+Contracts,When does the Apollo Endosurgery supply agreement expire?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,How does the Apollo Endosurgery supply agreement renew?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,Which law governs the Apollo Endosurgery supply agreement?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the Apollo Endosurgery supply agreement?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,What audit rights are in the Apollo Endosurgery supply agreement?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,Is liability capped in the Apollo Endosurgery supply agreement?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,How long is the warranty in the Apollo Endosurgery supply agreement?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,What insurance is required by the Apollo Endosurgery supply agreement?,contracts/contract_Apollo_Endosurgery.txt,contracts/contract_Apollo_Endosurgery.txt,True,True,False,False
+Contracts,When does the ULTRAGENYXPHARMACEUTICALINC supply agreement expire?,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,True,True,False,False
+Contracts,How does the ULTRAGENYXPHARMACEUTICALINC supply agreement renew?,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,True,True,False,False
+Contracts,Which law governs the ULTRAGENYXPHARMACEUTICALINC supply agreement?,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,True,True,False,False
+Contracts,Is liability capped in the ULTRAGENYXPHARMACEUTICALINC supply agreement?,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,True,True,False,True
+Contracts,How long is the warranty in the ULTRAGENYXPHARMACEUTICALINC supply agreement?,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,contracts/contract_ULTRAGENYXPHARMACEUTICALINC.txt,True,True,False,False
+Contracts,"When does the VAXCYTE,INC supply agreement expire?",contracts/contract_VAXCYTE_INC.txt,contracts/contract_VAXCYTE_INC.txt,True,True,False,False
+Contracts,"Which law governs the VAXCYTE,INC supply agreement?",contracts/contract_VAXCYTE_INC.txt,contracts/contract_VAXCYTE_INC.txt,True,True,False,False
+Contracts,"What is the minimum purchase commitment in the VAXCYTE,INC supply agreement?",contracts/contract_VAXCYTE_INC.txt,contracts/contract_VAXCYTE_INC.txt,True,True,False,False
+Contracts,"What audit rights are in the VAXCYTE,INC supply agreement?",contracts/contract_VAXCYTE_INC.txt,contracts/contract_VAXCYTE_INC.txt,True,True,False,False
+Contracts,"Is liability capped in the VAXCYTE,INC supply agreement?",contracts/contract_VAXCYTE_INC.txt,contracts/contract_VAXCYTE_INC.txt,True,True,False,False
+Contracts,"What insurance is required by the VAXCYTE,INC supply agreement?",contracts/contract_VAXCYTE_INC.txt,contracts/contract_VAXCYTE_INC.txt,True,True,False,True
+Contracts,When does the NeuroboPharmaceuticalsInc supply agreement expire?,contracts/contract_NeuroboPharmaceuticalsInc.txt,contracts/contract_NeuroboPharmaceuticalsInc.txt,True,True,False,False
+Contracts,Which law governs the NeuroboPharmaceuticalsInc supply agreement?,contracts/contract_NeuroboPharmaceuticalsInc.txt,contracts/contract_NeuroboPharmaceuticalsInc.txt,True,True,False,False
+Contracts,What audit rights are in the NeuroboPharmaceuticalsInc supply agreement?,contracts/contract_NeuroboPharmaceuticalsInc.txt,contracts/contract_NeuroboPharmaceuticalsInc.txt,True,True,False,False
+Contracts,How long is the warranty in the NeuroboPharmaceuticalsInc supply agreement?,contracts/contract_NeuroboPharmaceuticalsInc.txt,contracts/contract_NeuroboPharmaceuticalsInc.txt,True,True,False,False
+Contracts,When does the BIOFRONTERAAG supply agreement expire?,contracts/contract_BIOFRONTERAAG.txt,contracts/contract_BIOFRONTERAAG.txt,True,True,False,False
+Contracts,Which law governs the BIOFRONTERAAG supply agreement?,contracts/contract_BIOFRONTERAAG.txt,contracts/contract_BIOFRONTERAAG.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the BIOFRONTERAAG supply agreement?,contracts/contract_BIOFRONTERAAG.txt,contracts/contract_BIOFRONTERAAG.txt,True,True,False,False
+Contracts,What audit rights are in the BIOFRONTERAAG supply agreement?,contracts/contract_BIOFRONTERAAG.txt,contracts/contract_BIOFRONTERAAG.txt,True,True,False,True
+Contracts,Is liability capped in the BIOFRONTERAAG supply agreement?,contracts/contract_BIOFRONTERAAG.txt,contracts/contract_BIOFRONTERAAG.txt,True,True,False,False
+Contracts,What insurance is required by the BIOFRONTERAAG supply agreement?,contracts/contract_BIOFRONTERAAG.txt,contracts/contract_BIOFRONTERAAG.txt,True,True,False,False
+Contracts,When does the WestPharmaceuticalServicesInc supply agreement expire?,contracts/contract_WestPharmaceuticalServicesInc.txt,contracts/contract_WestPharmaceuticalServicesInc.txt,True,True,False,False
+Contracts,Which law governs the WestPharmaceuticalServicesInc supply agreement?,contracts/contract_WestPharmaceuticalServicesInc.txt,contracts/contract_WestPharmaceuticalServicesInc.txt,True,True,False,True
+Contracts,What is the minimum purchase commitment in the WestPharmaceuticalServicesInc supply agreement?,contracts/contract_WestPharmaceuticalServicesInc.txt,contracts/contract_WestPharmaceuticalServicesInc.txt,True,True,False,False
+Contracts,What audit rights are in the WestPharmaceuticalServicesInc supply agreement?,contracts/contract_WestPharmaceuticalServicesInc.txt,contracts/contract_WestPharmaceuticalServicesInc.txt,True,True,False,False
+Contracts,Is liability capped in the WestPharmaceuticalServicesInc supply agreement?,contracts/contract_WestPharmaceuticalServicesInc.txt,contracts/contract_VERICELCORP.txt,False,True,False,False
+Contracts,When does the FLOTEKINDUSTRIESINCCN supply agreement expire?,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,True,True,False,False
+Contracts,Which law governs the FLOTEKINDUSTRIESINCCN supply agreement?,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the FLOTEKINDUSTRIESINCCN supply agreement?,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,True,True,False,False
+Contracts,What audit rights are in the FLOTEKINDUSTRIESINCCN supply agreement?,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,True,True,False,False
+Contracts,How long is the warranty in the FLOTEKINDUSTRIESINCCN supply agreement?,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,True,True,False,False
+Contracts,What insurance is required by the FLOTEKINDUSTRIESINCCN supply agreement?,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,contracts/contract_FLOTEKINDUSTRIESINCCN.txt,True,True,False,False
+Contracts,When does the PROFOUNDMEDICALCORP supply agreement expire?,contracts/contract_PROFOUNDMEDICALCORP.txt,contracts/contract_PROFOUNDMEDICALCORP.txt,True,True,False,False
+Contracts,Which law governs the PROFOUNDMEDICALCORP supply agreement?,contracts/contract_PROFOUNDMEDICALCORP.txt,contracts/contract_PROFOUNDMEDICALCORP.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the PROFOUNDMEDICALCORP supply agreement?,contracts/contract_PROFOUNDMEDICALCORP.txt,contracts/contract_PROFOUNDMEDICALCORP.txt,True,True,False,False
+Contracts,How long is the warranty in the PROFOUNDMEDICALCORP supply agreement?,contracts/contract_PROFOUNDMEDICALCORP.txt,contracts/contract_PROFOUNDMEDICALCORP.txt,True,True,False,False
+Contracts,What insurance is required by the PROFOUNDMEDICALCORP supply agreement?,contracts/contract_PROFOUNDMEDICALCORP.txt,contracts/contract_PROFOUNDMEDICALCORP.txt,True,True,False,False
+Contracts,When does the SEASPINEHOLDINGSCORP supply agreement expire?,contracts/contract_SEASPINEHOLDINGSCORP.txt,contracts/contract_SEASPINEHOLDINGSCORP.txt,True,True,False,False
+Contracts,Which law governs the SEASPINEHOLDINGSCORP supply agreement?,contracts/contract_SEASPINEHOLDINGSCORP.txt,contracts/contract_SEASPINEHOLDINGSCORP.txt,True,True,False,False
+Contracts,What is the minimum purchase commitment in the SEASPINEHOLDINGSCORP supply agreement?,contracts/contract_SEASPINEHOLDINGSCORP.txt,contracts/contract_SEASPINEHOLDINGSCORP.txt,True,True,False,True
+Contracts,What audit rights are in the SEASPINEHOLDINGSCORP supply agreement?,contracts/contract_SEASPINEHOLDINGSCORP.txt,contracts/contract_SEASPINEHOLDINGSCORP.txt,True,True,False,False
+Contracts,Is liability capped in the SEASPINEHOLDINGSCORP supply agreement?,contracts/contract_SEASPINEHOLDINGSCORP.txt,contracts/contract_SEASPINEHOLDINGSCORP.txt,True,True,False,False

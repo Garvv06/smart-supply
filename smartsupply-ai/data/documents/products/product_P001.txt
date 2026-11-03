@@ -10,4 +10,4 @@ Supplier: Water Bottle - 30 oz. is bought from Green Lake Bike Company. The supp
 
 Stock: the latest stock count of Water Bottle - 30 oz. is 252 units: 252 units at Finished Goods Storage.
 
-Online sales: 4226 units of Water Bottle - 30 oz. were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 161 units were sold, an average of 5.4 units per day. The best month was May 2025 with 419 units. Water Bottle - 30 oz. sold on 392 of 393 days.
+Online sales: 4058 units of Water Bottle - 30 oz. were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 412 units were sold, an average of 13.7 units per day. The best month was March 2025 with 412 units. Water Bottle - 30 oz. sold on 361 of 362 days.

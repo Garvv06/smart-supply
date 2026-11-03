@@ -3,7 +3,7 @@ PURCHASE ORDER 1478 - Vista Road Bikes
 Purchase order 1478 was placed with Vista Road Bikes on 2024-12-18 and shipped on 2024-12-27 by CARGO TRANSPORT 5. Status: Complete.
 
 Items in purchase order 1478:
-- LL Mountain Tire (P019): ordered 550, received 550, rejected 0, unit price $32.25, line total $17,735.03, due 2025-01-01
+- LL Mountain Tire (P020): ordered 550, received 550, rejected 0, unit price $32.25, line total $17,735.03, due 2025-01-01
 - ML Mountain Tire (P014): ordered 550, received 550, rejected 0, unit price $36.56, line total $20,108.55, due 2025-01-01
 
 Invoice amounts for purchase order 1478: subtotal $37,843.57, tax $3,027.49, freight $946.09, total due $41,817.15.

@@ -1,7 +1,9 @@
-pandas
-numpy
-scikit-learn
-fastapi
-uvicorn
-python-multipart
-pypdf
+# Exact versions, so every team member gets the same model results
+# (a different scikit-learn version can change the forecasts a little)
+pandas==3.1.0
+numpy==2.5.4
+scikit-learn==1.9.1
+fastapi==0.162.0
+uvicorn==0.54.0
+python-multipart==0.0.33
+pypdf==6.21.4

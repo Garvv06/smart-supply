@@ -1,9 +1,0 @@
-PURCHASE ORDER 3363 - Signature Cycles
-
-Purchase order 3363 was placed with Signature Cycles on 2025-06-18 and shipped on 2025-06-27 by CARGO TRANSPORT 5. Status: Complete.
-
-Items in purchase order 3363:
-- LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.35, line total $18,890.03, due 2025-07-02
-- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2025-07-02
-
-Invoice amounts for purchase order 3363: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

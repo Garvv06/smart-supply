@@ -1,9 +1,0 @@
-PURCHASE ORDER 3442 - Signature Cycles
-
-Purchase order 3442 was placed with Signature Cycles on 2025-06-23 and shipped on 2025-07-02 by CARGO TRANSPORT 5. Status: Complete.
-
-Items in purchase order 3442:
-- LL Road Tire (P015): ordered 550, received 550, rejected 82, unit price $34.35, line total $18,890.03, due 2025-07-07
-- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2025-07-07
-
-Invoice amounts for purchase order 3442: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

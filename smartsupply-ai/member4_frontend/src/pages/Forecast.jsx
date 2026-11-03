@@ -10,11 +10,16 @@ export default function Forecast() {
   const [selected, setSelected] = useState("P001");
   const [chartData, setChartData] = useState([]);
   const [metrics, setMetrics] = useState([]);
+  const [error, setError] = useState("");
 
   // load product list and model errors once
   useEffect(() => {
-    api.products().then((result) => setProducts(result));
-    api.metrics().then((result) => setMetrics(result));
+    api.products()
+      .then((result) => setProducts(result))
+      .catch((err) => setError(err.message));
+    api.metrics()
+      .then((result) => setMetrics(result))
+      .catch((err) => setError(err.message));
   }, []);
 
   // load the chart again every time a different product is selected
@@ -29,8 +34,12 @@ export default function Forecast() {
         points.push({ date: f.date, Forecast: f.predicted_quantity });
       }
       setChartData(points);
-    });
+    }).catch((err) => setError(err.message));
   }, [selected]);
+
+  if (error) {
+    return <p className="error">Cannot reach backend: {error}</p>;
+  }
 
   return (
     <div>
@@ -63,7 +72,8 @@ export default function Forecast() {
         <h3>Model Accuracy (average MAE, lower is better)</h3>
         <p className="muted">
           MAE means: on average, how many units per day the prediction is wrong by.
-          We compare the ML models with a simple 30-day average.
+          We compare the ML models with a simple baseline: the average of the last 28 days.
+          Each product uses the model with the lowest error, and the baseline if no model beats it.
         </p>
         <ResponsiveContainer width="100%" height={220}>
           <BarChart data={metrics} layout="vertical" margin={{ left: 60 }}>

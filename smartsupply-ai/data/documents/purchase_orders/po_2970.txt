@@ -3,7 +3,7 @@ PURCHASE ORDER 2970 - Sport Fan Co.
 Purchase order 2970 was placed with Sport Fan Co. on 2025-05-18 and shipped on 2025-05-27 by CARGO TRANSPORT 5. Status: Complete.
 
 Items in purchase order 2970:
-- LL Mountain Tire (P019): ordered 550, received 550, rejected 0, unit price $32.77, line total $18,023.78, due 2025-06-01
+- LL Mountain Tire (P020): ordered 550, received 550, rejected 0, unit price $32.77, line total $18,023.78, due 2025-06-01
 - ML Mountain Tire (P014): ordered 550, received 550, rejected 55, unit price $37.09, line total $20,397.30, due 2025-06-01
 - HL Mountain Tire (P013): ordered 550, received 550, rejected 0, unit price $43.04, line total $23,671.72, due 2025-06-01
 

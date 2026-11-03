@@ -3,8 +3,8 @@ PURCHASE ORDER 390 - Victory Bikes
 Purchase order 390 was placed with Victory Bikes on 2024-05-28 and shipped on 2024-06-06 by OVERNIGHT J-FAST. Status: Complete.
 
 Items in purchase order 390:
-- HL Road Tire (P020): ordered 550, received 550, rejected 0, unit price $43.46, line total $23,902.72, due 2024-06-11
-- Touring Tire (P016): ordered 550, received 550, rejected 55, unit price $37.62, line total $20,691.83, due 2024-06-11
+- HL Road Tire (P019): ordered 550, received 550, rejected 0, unit price $43.46, line total $23,902.72, due 2024-06-11
+- Touring Tire (P017): ordered 550, received 550, rejected 55, unit price $37.62, line total $20,691.83, due 2024-06-11
 - Road Tire Tube (P004): ordered 550, received 550, rejected 0, unit price $6.53, line total $3,592.05, due 2024-06-11
 
 Invoice amounts for purchase order 390: subtotal $48,186.60, tax $3,854.93, freight $1,204.66, total due $53,246.19.

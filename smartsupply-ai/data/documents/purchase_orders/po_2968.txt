@@ -4,6 +4,6 @@ Purchase order 2968 was placed with Signature Cycles on 2025-05-18 and shipped o
 
 Items in purchase order 2968:
 - LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.35, line total $18,890.03, due 2025-06-01
-- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2025-06-01
+- ML Road Tire (P016): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2025-06-01
 
 Invoice amounts for purchase order 2968: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

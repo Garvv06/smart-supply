@@ -3,7 +3,7 @@ PURCHASE ORDER 1792 - Victory Bikes
 Purchase order 1792 was placed with Victory Bikes on 2025-01-22 and shipped on 2025-01-31 by OVERNIGHT J-FAST. Status: Complete.
 
 Items in purchase order 1792:
-- HL Road Tire (P020): ordered 550, received 550, rejected 82, unit price $43.46, line total $23,902.72, due 2025-02-05
-- Touring Tire (P016): ordered 550, received 550, rejected 0, unit price $37.62, line total $20,691.83, due 2025-02-05
+- HL Road Tire (P019): ordered 550, received 550, rejected 82, unit price $43.46, line total $23,902.72, due 2025-02-05
+- Touring Tire (P017): ordered 550, received 550, rejected 0, unit price $37.62, line total $20,691.83, due 2025-02-05
 
 Invoice amounts for purchase order 1792: subtotal $44,594.55, tax $3,567.56, freight $1,114.86, total due $49,276.98.

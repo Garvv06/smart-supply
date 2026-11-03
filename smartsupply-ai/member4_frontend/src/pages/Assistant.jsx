@@ -1,13 +1,35 @@
-// Document Assistant page: ask questions about the product reports (made from the dataset)
-// and any documents the user uploads
+// Document Assistant page: ask questions about the product reports, supplier profiles,
+// purchase orders, supply contracts and inventory policy, and any documents the user uploads
 import { useEffect, useState } from "react";
 import { api } from "../api";
 
 const exampleQuestions = [
-  "Which category has the highest sales?",
-  "Which products sold the most?",
-  "What period does the sales data cover?",
+  "What is the lead time for the Water Bottle - 30 oz.?",
+  "What was the total due for purchase order 4001?",
+  "What is the credit rating of Green Lake Bike Company?",
+  "How is safety stock calculated?",
 ];
+
+// "contracts/contract_VERICELCORP.txt" -> "contracts", "store_summary.txt" -> ""
+function folderOf(path) {
+  const slash = path.lastIndexOf("/");
+  if (slash === -1) {
+    return "";
+  }
+  return path.substring(0, slash);
+}
+
+// count the documents in each folder, e.g. { "contracts": 24, "products": 20 }
+function countByFolder(documents) {
+  const counts = {};
+  for (const d of documents) {
+    const folder = folderOf(d);
+    if (folder !== "" && folder !== "uploads") {
+      counts[folder] = (counts[folder] || 0) + 1;
+    }
+  }
+  return counts;
+}
 
 // the same file can come up more than once, so we keep each name only once
 function getSourceNames(sources) {
@@ -25,9 +47,16 @@ export default function Assistant() {
   const [chat, setChat] = useState([]);   // list of { question, answer, sources }
   const [documents, setDocuments] = useState([]);
   const [loading, setLoading] = useState(false);
+  const [uploadMessage, setUploadMessage] = useState("");
+
+  function loadDocuments() {
+    api.documents()
+      .then((result) => setDocuments(result))
+      .catch((err) => setUploadMessage("Cannot reach backend: " + err.message));
+  }
 
   useEffect(() => {
-    api.documents().then((result) => setDocuments(result));
+    loadDocuments();
   }, []);
 
   async function ask(text) {
@@ -35,14 +64,15 @@ export default function Assistant() {
       return;
     }
     setLoading(true);
-    const result = await api.ask(text);
-
-    const newMessage = {
-      question: text,
-      answer: result.answer,
-      sources: result.sources,
-    };
-    setChat(chat.concat([newMessage]));
+    let newMessage;
+    try {
+      const result = await api.ask(text);
+      newMessage = { question: text, answer: result.answer, sources: result.sources };
+    } catch (err) {
+      newMessage = { question: text, answer: "Error: " + err.message, sources: [] };
+    }
+    // use the latest chat, in case two questions were asked quickly
+    setChat((oldChat) => oldChat.concat([newMessage]));
     setQuestion("");
     setLoading(false);
   }
@@ -52,9 +82,23 @@ export default function Assistant() {
     if (!file) {
       return;
     }
-    await api.upload(file);
-    api.documents().then((result) => setDocuments(result));
+    try {
+      const result = await api.upload(file);
+      setUploadMessage(result.message);
+      loadDocuments();
+    } catch (err) {
+      setUploadMessage("Error: " + err.message);
+    }
     e.target.value = "";
+  }
+
+  const folderCounts = countByFolder(documents);
+  const otherDocuments = [];   // documents that are not in a dataset folder, like uploads
+  for (const d of documents) {
+    const folder = folderOf(d);
+    if (folder === "" || folder === "uploads") {
+      otherDocuments.push(d);
+    }
   }
 
   // before the first question, show some example questions
@@ -62,7 +106,8 @@ export default function Assistant() {
   if (chat.length === 0) {
     emptyMessage = (
       <div className="muted">
-        Ask about any product or the store sales. You can also upload your own documents. Try:
+        Ask about products, suppliers, purchase orders, supply contracts or the inventory policy.
+        You can also upload your own documents. Try:
         {exampleQuestions.map((q) => (
           <button key={q} className="example" onClick={() => ask(q)}>{q}</button>
         ))}
@@ -111,14 +156,20 @@ export default function Assistant() {
         </div>
 
         <div className="panel">
-          <h3>Documents</h3>
+          <h3>Documents ({documents.length})</h3>
           <ul className="doc-list">
-            {documents.map((d) => <li key={d}>{d}</li>)}
+            {Object.keys(folderCounts).map((folder) => (
+              <li key={folder}>
+                {folder.replace("_", " ")}: {folderCounts[folder]} {folderCounts[folder] === 1 ? "file" : "files"}
+              </li>
+            ))}
+            {otherDocuments.map((d) => <li key={d}>{d}</li>)}
           </ul>
           <label className="upload">
             + Upload .txt or .pdf
             <input type="file" accept=".txt,.pdf" onChange={uploadFile} hidden />
           </label>
+          <p className="muted">{uploadMessage}</p>
         </div>
       </div>
     </div>

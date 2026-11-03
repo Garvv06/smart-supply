@@ -3,7 +3,7 @@ PURCHASE ORDER 3123 - Professional Athletic Consultants
 Purchase order 3123 was placed with Professional Athletic Consultants on 2025-05-28 and shipped on 2025-06-06 by OVERNIGHT J-FAST. Status: Complete.
 
 Items in purchase order 3123:
-- HL Road Tire (P020): ordered 550, received 550, rejected 0, unit price $43.98, line total $24,191.47, due 2025-06-11
-- Touring Tire (P016): ordered 550, received 550, rejected 0, unit price $38.15, line total $20,980.58, due 2025-06-11
+- HL Road Tire (P019): ordered 550, received 550, rejected 0, unit price $43.98, line total $24,191.47, due 2025-06-11
+- Touring Tire (P017): ordered 550, received 550, rejected 0, unit price $38.15, line total $20,980.58, due 2025-06-11
 
 Invoice amounts for purchase order 3123: subtotal $45,172.05, tax $3,613.76, freight $1,129.30, total due $49,915.12.

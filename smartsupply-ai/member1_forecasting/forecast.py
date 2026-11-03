@@ -69,7 +69,7 @@ def make_features(day, past, start_date):
         "same_day_last_week": past[-7],
     }
     for weekday in range(7):
-        row["dow_" + str(weekday)] = 1 if day.dayofweek == weekday else 0
+        row["dow_" + str(weekday)] = 1 if day.day_of_week == weekday else 0
     return row
 
 

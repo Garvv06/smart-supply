@@ -17,23 +17,23 @@ How much to order: an order should cover the lead time plus 30 more days of fore
 Who places the order: the app only suggests orders. A person checks the suggestion and places the purchase order with the supplier. Rejected units found during inspection are not added to stock.
 
 Reorder settings per product:
-Water Bottle - 30 oz. (P001): lead time 45 days, safety stock 61 units, reorder point 292 units, forecast model Random Forest
-Patch Kit/8 Patches (P002): lead time 45 days, safety stock 35 units, reorder point 296 units, forecast model Baseline (28-day average)
-Mountain Tire Tube (P003): lead time 19 days, safety stock 25 units, reorder point 137 units, forecast model Baseline (28-day average)
-Road Tire Tube (P004): lead time 19 days, safety stock 21 units, reorder point 141 units, forecast model Linear Regression
-Sport-100 Helmet, Red (P005): lead time 30 days, safety stock 33 units, reorder point 122 units, forecast model Gradient Boosting
-AWC Logo Cap (P006): lead time 45 days, safety stock 35 units, reorder point 226 units, forecast model Gradient Boosting
-Sport-100 Helmet, Blue (P007): lead time 45 days, safety stock 34 units, reorder point 174 units, forecast model Gradient Boosting
-Fender Set - Mountain (P008): lead time 45 days, safety stock 34 units, reorder point 192 units, forecast model Random Forest
-Sport-100 Helmet, Black (P009): lead time 30 days, safety stock 29 units, reorder point 152 units, forecast model Linear Regression
-Mountain Bottle Cage (P010): lead time 45 days, safety stock 35 units, reorder point 159 units, forecast model Random Forest
-Road Bottle Cage (P011): lead time 45 days, safety stock 40 units, reorder point 53 units, forecast model Baseline (28-day average)
-Touring Tire Tube (P012): lead time 19 days, safety stock 15 units, reorder point 72 units, forecast model Baseline (28-day average)
-HL Mountain Tire (P013): lead time 19 days, safety stock 19 units, reorder point 51 units, forecast model Gradient Boosting
-ML Mountain Tire (P014): lead time 19 days, safety stock 13 units, reorder point 62 units, forecast model Baseline (28-day average)
-LL Road Tire (P015): lead time 19 days, safety stock 13 units, reorder point 51 units, forecast model Baseline (28-day average)
-Touring Tire (P016): lead time 19 days, safety stock 11 units, reorder point 45 units, forecast model Baseline (28-day average)
-ML Road Tire (P017): lead time 19 days, safety stock 15 units, reorder point 57 units, forecast model Linear Regression
-Bike Wash - Dissolver (P018): lead time 45 days, safety stock 23 units, reorder point 137 units, forecast model Linear Regression
-LL Mountain Tire (P019): lead time 19 days, safety stock 11 units, reorder point 49 units, forecast model Baseline (28-day average)
-HL Road Tire (P020): lead time 19 days, safety stock 11 units, reorder point 45 units, forecast model Baseline (28-day average)
+Water Bottle - 30 oz. (P001): lead time 45 days, safety stock 44 units, reorder point 674 units, forecast model Baseline (28-day average)
+Patch Kit/8 Patches (P002): lead time 45 days, safety stock 36 units, reorder point 424 units, forecast model Gradient Boosting
+Mountain Tire Tube (P003): lead time 19 days, safety stock 25 units, reorder point 205 units, forecast model Baseline (28-day average)
+Road Tire Tube (P004): lead time 19 days, safety stock 18 units, reorder point 152 units, forecast model Linear Regression
+Sport-100 Helmet, Red (P005): lead time 30 days, safety stock 26 units, reorder point 263 units, forecast model Linear Regression
+AWC Logo Cap (P006): lead time 45 days, safety stock 30 units, reorder point 364 units, forecast model Linear Regression
+Sport-100 Helmet, Blue (P007): lead time 45 days, safety stock 31 units, reorder point 369 units, forecast model Baseline (28-day average)
+Fender Set - Mountain (P008): lead time 45 days, safety stock 34 units, reorder point 345 units, forecast model Baseline (28-day average)
+Sport-100 Helmet, Black (P009): lead time 30 days, safety stock 28 units, reorder point 244 units, forecast model Baseline (28-day average)
+Mountain Bottle Cage (P010): lead time 45 days, safety stock 29 units, reorder point 349 units, forecast model Baseline (28-day average)
+Road Bottle Cage (P011): lead time 45 days, safety stock 31 units, reorder point 323 units, forecast model Baseline (28-day average)
+Touring Tire Tube (P012): lead time 19 days, safety stock 14 units, reorder point 106 units, forecast model Baseline (28-day average)
+HL Mountain Tire (P013): lead time 19 days, safety stock 17 units, reorder point 104 units, forecast model Linear Regression
+ML Mountain Tire (P014): lead time 19 days, safety stock 13 units, reorder point 74 units, forecast model Baseline (28-day average)
+LL Road Tire (P015): lead time 19 days, safety stock 13 units, reorder point 74 units, forecast model Linear Regression
+ML Road Tire (P016): lead time 19 days, safety stock 14 units, reorder point 75 units, forecast model Linear Regression
+Touring Tire (P017): lead time 19 days, safety stock 12 units, reorder point 66 units, forecast model Baseline (28-day average)
+Bike Wash - Dissolver (P018): lead time 45 days, safety stock 20 units, reorder point 164 units, forecast model Baseline (28-day average)
+HL Road Tire (P019): lead time 19 days, safety stock 13 units, reorder point 49 units, forecast model Baseline (28-day average)
+LL Mountain Tire (P020): lead time 19 days, safety stock 12 units, reorder point 57 units, forecast model Baseline (28-day average)

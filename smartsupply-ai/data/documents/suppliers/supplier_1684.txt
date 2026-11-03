@@ -2,6 +2,6 @@ SUPPLIER PROFILE - Professional Athletic Consultants
 
 Supplier ID: 1684. Account number: PROFESSI0001. Credit rating of Professional Athletic Consultants: 1 (Superior). Preferred supplier: yes. Active: yes.
 
-Products: of the products we track, Professional Athletic Consultants supplies: LL Road Tire (P015): price $33.21, lead time 19 days, order 100 to 1000 units; ML Road Tire (P017): price $37.87, lead time 19 days, order 100 to 1000 units; HL Road Tire (P020): price $41.89, lead time 19 days, order 100 to 1000 units; Touring Tire (P016): price $36.33, lead time 19 days, order 100 to 1000 units.
+Products: of the products we track, Professional Athletic Consultants supplies: LL Road Tire (P015): price $33.21, lead time 19 days, order 100 to 1000 units; ML Road Tire (P016): price $37.87, lead time 19 days, order 100 to 1000 units; HL Road Tire (P019): price $41.89, lead time 19 days, order 100 to 1000 units; Touring Tire (P017): price $36.33, lead time 19 days, order 100 to 1000 units.
 
-Purchase history with Professional Athletic Consultants: 44 purchase orders between 2023-01-23 and 2025-06-29, worth $2,953,491.79 in total (with tax and freight). 67791 units were received and 712 units (1.1%) were rejected during inspection. On average the orders shipped 9.0 days after they were placed.
+Purchase history with Professional Athletic Consultants: 39 purchase orders between 2023-01-23 and 2025-05-28, worth $2,667,670.01 in total (with tax and freight). 61191 units were received and 575 units (0.9%) were rejected during inspection. On average the orders shipped 9.0 days after they were placed.

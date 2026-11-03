@@ -4,6 +4,6 @@ Purchase order 822 was placed with Signature Cycles on 2024-09-04 and shipped on
 
 Items in purchase order 822:
 - LL Road Tire (P015): ordered 550, received 550, rejected 82, unit price $34.35, line total $18,890.03, due 2024-09-18
-- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2024-09-18
+- ML Road Tire (P016): ordered 550, received 550, rejected 0, unit price $39.24, line total $21,581.17, due 2024-09-18
 
 Invoice amounts for purchase order 822: subtotal $40,471.20, tax $3,237.70, freight $1,011.78, total due $44,720.68.

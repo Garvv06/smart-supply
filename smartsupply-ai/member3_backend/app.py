@@ -14,8 +14,9 @@
 #   GET  /api/metrics         error of each model
 #   GET  /api/movements       last 50 stock IN / OUT entries
 #   POST /api/movements       add a stock IN / OUT entry (updates the stock)
+#   GET  /api/suppliers       suppliers with their credit rating
 #   POST /api/ask             ask a question about the documents
-#   POST /api/upload          upload a new document
+#   POST /api/upload          upload a new document (saved in data/documents/uploads)
 #   GET  /api/documents       list of documents
 #
 # Run:   python -m uvicorn app:app --reload --port 8000
@@ -38,10 +39,11 @@ ROOT = os.path.join(HERE, "..")
 sys.path.append(os.path.join(ROOT, "member1_forecasting"))
 sys.path.append(os.path.join(ROOT, "member2_rag"))
 
-from forecast import reorder_suggestion          # Member 1
-from rag import DocumentAssistant, DOCS_FOLDER   # Member 2
+from forecast import reorder_suggestion                          # Member 1
+from rag import DocumentAssistant, DOCS_FOLDER, list_documents   # Member 2
 
 METRICS_FILE = os.path.join(ROOT, "member1_forecasting", "output", "model_metrics.csv")
+UPLOADS_FOLDER = os.path.join(DOCS_FOLDER, "uploads")
 
 # make the database if it is not there yet
 if not os.path.exists(DB_PATH):
@@ -70,7 +72,9 @@ def run_query(sql, params=()):
 
 def get_reorder_list():
     # uses Member 1's reorder logic with the latest stock from the database
-    products = run_query("SELECT * FROM products")
+    products = run_query(
+        "SELECT p.*, s.name AS supplier_name FROM products p "
+        "LEFT JOIN suppliers s ON s.supplier_id = p.supplier_id")
     forecasts = pd.DataFrame(run_query("SELECT * FROM forecasts"))
 
     result = []
@@ -79,6 +83,7 @@ def get_reorder_list():
         row = reorder_suggestion(p, product_forecast)
         row["category"] = p["category"]
         row["unit_price"] = p["unit_price"]
+        row["supplier_name"] = p["supplier_name"]
         result.append(row)
     return result
 
@@ -91,7 +96,6 @@ def dashboard():
 
     reorder_now = 0
     low_stock = 0
-    not_entered = 0
     alerts = []
     for r in reorder_list:
         if r["status"] == "Reorder Now":
@@ -100,8 +104,6 @@ def dashboard():
         if r["status"] == "Low":
             low_stock = low_stock + 1
             alerts.append(r)
-        if r["status"] == "Stock not entered":
-            not_entered = not_entered + 1
 
     total_sold = run_query("SELECT SUM(quantity) AS total FROM sales")
     demand = run_query("SELECT SUM(predicted_quantity) AS total FROM forecasts")
@@ -119,7 +121,6 @@ def dashboard():
         "expected_demand_30_days": demand[0]["total"],
         "reorder_now": reorder_now,
         "low_stock": low_stock,
-        "stock_not_entered": not_entered,
         "alerts": alerts,
         "sales_by_category": sales_by_category,
         "monthly_sales": monthly_sales,
@@ -140,6 +141,11 @@ def products(category: str = None):
 @app.get("/api/reorder")
 def reorder():
     return get_reorder_list()
+
+
+@app.get("/api/suppliers")
+def suppliers():
+    return run_query("SELECT * FROM suppliers ORDER BY name")
 
 
 # ---------- Forecast ----------
@@ -198,7 +204,6 @@ def add_movement(m: Movement):
         conn.close()
         raise HTTPException(404, "Product not found")
 
-    # stock is empty until the user enters it the first time
     old_stock = product["current_stock"]
     if old_stock is None:
         old_stock = 0
@@ -213,8 +218,8 @@ def add_movement(m: Movement):
         conn.close()
         raise HTTPException(400, "Not enough stock")
 
-    conn.execute("INSERT INTO stock_movements (date, product_id, type, quantity, note) "
-                 "VALUES (?, ?, ?, ?, ?)",
+    conn.execute("INSERT INTO stock_movements (date, product_id, type, quantity, note, source) "
+                 "VALUES (?, ?, ?, ?, ?, 'user')",
                  (date.today().isoformat(), m.product_id, m.type, m.quantity, m.note))
     conn.execute("UPDATE products SET current_stock = ? WHERE product_id = ?",
                  (new_stock, m.product_id))
@@ -235,19 +240,19 @@ def ask(q: Question):
 
 @app.get("/api/documents")
 def documents():
-    files = []
-    for f in sorted(os.listdir(DOCS_FOLDER)):
-        if f.endswith(".txt") or f.endswith(".pdf"):
-            files.append(f)
-    return files
+    # names like "contracts/contract_VERICELCORP.txt", so the user can see the kind of document
+    return list_documents(DOCS_FOLDER)
 
 
 @app.post("/api/upload")
 async def upload(file: UploadFile = File(...)):
-    if not (file.filename.endswith(".txt") or file.filename.endswith(".pdf")):
+    file_name = os.path.basename(file.filename or "")
+    if not (file_name.lower().endswith(".txt") or file_name.lower().endswith(".pdf")):
         raise HTTPException(400, "Only .txt and .pdf files are allowed")
 
-    save_path = os.path.join(DOCS_FOLDER, os.path.basename(file.filename))
+    # uploads go in their own folder, so they cannot replace a document made from the dataset
+    os.makedirs(UPLOADS_FOLDER, exist_ok=True)
+    save_path = os.path.join(UPLOADS_FOLDER, file_name)
     content = await file.read()
     with open(save_path, "wb") as f:
         f.write(content)

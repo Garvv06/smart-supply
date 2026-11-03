@@ -6,10 +6,10 @@ Description of ML Mountain Tire: Great traction, high-density rubber.
 
 Price: ML Mountain Tire sells for $29.99. Its standard cost is $11.22.
 
-Supplier: ML Mountain Tire is bought from Vista Road Bikes. The supplier's usual price is $34.82 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 2200 units are on order and have not arrived yet.
+Supplier: ML Mountain Tire is bought from Vista Road Bikes. The supplier's usual price is $34.82 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 3300 units are on order and have not arrived yet.
 
 Other supplier: ML Mountain Tire can also be bought from Sport Fan Co. for $35.32 per unit, with a lead time of 19 days.
 
 Stock: the latest stock count of ML Mountain Tire is 669 units: 385 units at Miscellaneous Storage (shelf L, bin 3); 284 units at Subassembly (shelf R, bin 3).
 
-Online sales: 1160 units of ML Mountain Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 77 units were sold, an average of 2.6 units per day. The best month was November 2024 with 111 units. ML Mountain Tire sold on 355 of 393 days.
+Online sales: 1082 units of ML Mountain Tire were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 95 units were sold, an average of 3.2 units per day. The best month was November 2024 with 111 units. ML Mountain Tire sold on 324 of 362 days.

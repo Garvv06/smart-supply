@@ -1,21 +1,21 @@
 product_id,best_model,forecast_mae,forecast_error_std
-P001,Random Forest,4.76,5.43
-P002,Baseline (28-day average),2.78,3.109
-P003,Baseline (28-day average),2.95,3.434
-P004,Linear Regression,2.23,2.791
-P005,Gradient Boosting,2.99,3.594
-P006,Gradient Boosting,2.69,3.121
-P007,Gradient Boosting,2.92,3.006
-P008,Random Forest,2.52,3.063
-P009,Linear Regression,2.67,3.142
-P010,Random Forest,2.67,3.11
-P011,Baseline (28-day average),3.27,3.535
-P012,Baseline (28-day average),1.66,1.949
-P013,Gradient Boosting,2.15,2.607
-P014,Baseline (28-day average),1.36,1.693
-P015,Baseline (28-day average),1.42,1.711
-P016,Baseline (28-day average),1.19,1.457
-P017,Linear Regression,1.78,2.054
-P018,Linear Regression,1.61,2.006
-P019,Baseline (28-day average),1.16,1.431
-P020,Baseline (28-day average),1.18,1.436
+P001,Baseline (28-day average),2.94,3.917
+P002,Gradient Boosting,2.52,3.199
+P003,Baseline (28-day average),2.69,3.358
+P004,Linear Regression,1.92,2.447
+P005,Linear Regression,2.19,2.861
+P006,Linear Regression,2.14,2.635
+P007,Baseline (28-day average),2.19,2.767
+P008,Baseline (28-day average),2.45,3.052
+P009,Baseline (28-day average),2.3,3.003
+P010,Baseline (28-day average),2.09,2.593
+P011,Baseline (28-day average),2.16,2.736
+P012,Baseline (28-day average),1.54,1.945
+P013,Linear Regression,1.87,2.305
+P014,Baseline (28-day average),1.38,1.8
+P015,Linear Regression,1.36,1.801
+P016,Linear Regression,1.61,1.935
+P017,Baseline (28-day average),1.34,1.665
+P018,Baseline (28-day average),1.32,1.722
+P019,Baseline (28-day average),1.24,1.694
+P020,Baseline (28-day average),1.2,1.53

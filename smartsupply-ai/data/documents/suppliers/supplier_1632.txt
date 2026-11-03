@@ -2,6 +2,6 @@ SUPPLIER PROFILE - Sport Fan Co.
 
 Supplier ID: 1632. Account number: SPORTFA0001. Credit rating of Sport Fan Co.: 1 (Superior). Preferred supplier: yes. Active: yes.
 
-Products: of the products we track, Sport Fan Co. supplies: LL Mountain Tire (P019): price $31.21, lead time 19 days, order 100 to 1000 units; ML Mountain Tire (P014): price $35.32, lead time 19 days, order 100 to 1000 units; HL Mountain Tire (P013): price $40.99, lead time 19 days, order 100 to 1000 units.
+Products: of the products we track, Sport Fan Co. supplies: LL Mountain Tire (P020): price $31.21, lead time 19 days, order 100 to 1000 units; ML Mountain Tire (P014): price $35.32, lead time 19 days, order 100 to 1000 units; HL Mountain Tire (P013): price $40.99, lead time 19 days, order 100 to 1000 units.
 
-Purchase history with Sport Fan Co.: 43 purchase orders between 2023-01-23 and 2025-06-23, worth $2,306,669.24 in total (with tax and freight). 55114 units were received and 1675 units (3.0%) were rejected during inspection. On average the orders shipped 9.0 days after they were placed.
+Purchase history with Sport Fan Co.: 39 purchase orders between 2023-01-23 and 2025-05-29, worth $2,058,376.32 in total (with tax and freight). 49173 units were received and 1675 units (3.4%) were rejected during inspection. On average the orders shipped 9.0 days after they were placed.

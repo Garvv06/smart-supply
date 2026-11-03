@@ -6,8 +6,8 @@ Description of Bike Wash - Dissolver: Washes off the toughest road grime; dissol
 
 Price: Bike Wash - Dissolver sells for $7.95. Its standard cost is $2.97.
 
-Supplier: Bike Wash - Dissolver is bought from Green Lake Bike Company. The supplier's usual price is $3.00 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 100 and 500 units. 150 units are on order and have not arrived yet.
+Supplier: Bike Wash - Dissolver is bought from Green Lake Bike Company. The supplier's usual price is $3.00 per unit. The lead time (days between ordering and receiving) is 45 days. Each order must be between 100 and 500 units. 0 units are on order and have not arrived yet.
 
 Stock: the latest stock count of Bike Wash - Dissolver is 36 units: 36 units at Finished Goods Storage.
 
-Online sales: 908 units of Bike Wash - Dissolver were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 42 units were sold, an average of 1.4 units per day. The best month was December 2024 with 97 units. Bike Wash - Dissolver sold on 348 of 393 days.
+Online sales: 864 units of Bike Wash - Dissolver were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 96 units were sold, an average of 3.2 units per day. The best month was December 2024 with 97 units. Bike Wash - Dissolver sold on 326 of 362 days.

@@ -6,8 +6,8 @@ Description of Road Tire Tube: Conventional all-purpose tube.
 
 Price: Road Tire Tube sells for $3.99. Its standard cost is $1.49.
 
-Supplier: Road Tire Tube is bought from Victory Bikes. The supplier's usual price is $6.22 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 550 units are on order and have not arrived yet.
+Supplier: Road Tire Tube is bought from Victory Bikes. The supplier's usual price is $6.22 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 1650 units are on order and have not arrived yet.
 
 Stock: the latest stock count of Road Tire Tube is 505 units: 264 units at Miscellaneous Storage (shelf L, bin 17); 241 units at Subassembly (shelf R, bin 17).
 
-Online sales: 2369 units of Road Tire Tube were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 152 units were sold, an average of 5.1 units per day. The best month was May 2025 with 226 units. Road Tire Tube sold on 385 of 393 days.
+Online sales: 2209 units of Road Tire Tube were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 215 units were sold, an average of 7.2 units per day. The best month was December 2024 with 218 units. Road Tire Tube sold on 354 of 362 days.

@@ -1,15 +1,15 @@
-PRODUCT REPORT - HL Road Tire
+PRODUCT REPORT - LL Mountain Tire
 
-Product ID: P020. Product number in the dataset: TI-R982 (AdventureWorks product 933). Category: Tires and Tubes (Accessories).
+Product ID: P020. Product number in the dataset: TI-M267 (AdventureWorks product 928). Category: Tires and Tubes (Accessories).
 
-Description of HL Road Tire: Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.
+Description of LL Mountain Tire: Comparible traction, less expensive wire bead casing.
 
-Price: HL Road Tire sells for $32.60. Its standard cost is $12.19.
+Price: LL Mountain Tire sells for $24.99. Its standard cost is $9.35.
 
-Supplier: HL Road Tire is bought from Victory Bikes. The supplier's usual price is $41.39 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 1650 units are on order and have not arrived yet.
+Supplier: LL Mountain Tire is bought from Vista Road Bikes. The supplier's usual price is $30.71 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 3300 units are on order and have not arrived yet.
 
-Other supplier: HL Road Tire can also be bought from Professional Athletic Consultants for $41.89 per unit, with a lead time of 19 days.
+Other supplier: LL Mountain Tire can also be bought from Sport Fan Co. for $31.21 per unit, with a lead time of 19 days.
 
-Stock: the latest stock count of HL Road Tire is 527 units: 299 units at Miscellaneous Storage (shelf L, bin 10); 228 units at Subassembly (shelf R, bin 9).
+Stock: the latest stock count of LL Mountain Tire is 609 units: 240 units at Miscellaneous Storage (shelf L, bin 2); 369 units at Subassembly (shelf R, bin 1).
 
-Online sales: 854 units of HL Road Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 51 units were sold, an average of 1.7 units per day. The best month was September 2024 with 84 units. HL Road Tire sold on 341 of 393 days.
+Online sales: 799 units of LL Mountain Tire were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 67 units were sold, an average of 2.2 units per day. The best month was March 2025 with 87 units. LL Mountain Tire sold on 311 of 362 days.

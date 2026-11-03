@@ -1,4 +1,4 @@
-// Small coloured label: Reorder Now = red, Low = orange, OK = green, Stock not entered = grey
+// Small coloured label: Reorder Now = red, Low = orange, OK = green, anything else = grey
 export default function StatusBadge({ status }) {
   let badgeClass = "badge grey";
   if (status === "Reorder Now") {

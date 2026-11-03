@@ -1,21 +1,21 @@
 product_id,aw_product_id,name,category,product_group,unit_price,unit_cost,supplier_id,supplier_price,lead_time_days,min_order_qty,max_order_qty,on_order_qty,current_stock
 P001,870,Water Bottle - 30 oz.,Bottles and Cages,Accessories,4.99,1.87,1546,1.87,45,500,2500,0,252
 P002,873,Patch Kit/8 Patches,Tires and Tubes,Accessories,2.29,0.86,1546,0.8,45,1500,15000,0,180
-P003,921,Mountain Tire Tube,Tires and Tubes,Accessories,4.99,1.87,1498,5.32,19,100,1000,1100,529
-P004,922,Road Tire Tube,Tires and Tubes,Accessories,3.99,1.49,1652,6.22,19,100,1000,550,505
+P003,921,Mountain Tire Tube,Tires and Tubes,Accessories,4.99,1.87,1498,5.32,19,100,1000,1650,529
+P004,922,Road Tire Tube,Tires and Tubes,Accessories,3.99,1.49,1652,6.22,19,100,1000,1650,505
 P005,707,"Sport-100 Helmet, Red",Helmets,Accessories,34.99,13.09,1520,13.25,30,4,200,0,288
-P006,712,AWC Logo Cap,Caps,Clothing,8.99,6.92,1636,6.55,45,100,1000,0,288
+P006,712,AWC Logo Cap,Caps,Clothing,8.99,6.92,1636,6.55,45,100,1000,630,288
 P007,711,"Sport-100 Helmet, Blue",Helmets,Accessories,34.99,13.09,1520,13.88,45,50,750,300,216
-P008,878,Fender Set - Mountain,Fenders,Accessories,21.98,8.22,1546,8.22,45,100,500,150,108
+P008,878,Fender Set - Mountain,Fenders,Accessories,21.98,8.22,1546,8.22,45,100,500,0,108
 P009,708,"Sport-100 Helmet, Black",Helmets,Accessories,34.99,13.09,1520,13.25,30,4,200,25,324
 P010,871,Mountain Bottle Cage,Bottles and Cages,Accessories,9.99,3.74,1546,3.74,45,500,2500,0,288
 P011,872,Road Bottle Cage,Bottles and Cages,Accessories,8.99,3.36,1546,3.0,45,500,2500,0,324
-P012,923,Touring Tire Tube,Tires and Tubes,Accessories,4.99,1.87,1652,5.89,19,100,1000,550,502
-P013,930,HL Mountain Tire,Tires and Tubes,Accessories,35.0,13.09,1498,40.49,19,100,1000,1650,499
-P014,929,ML Mountain Tire,Tires and Tubes,Accessories,29.99,11.22,1538,34.82,19,100,1000,2200,669
-P015,931,LL Road Tire,Tires and Tubes,Accessories,21.49,8.04,1588,32.71,19,100,1000,2200,488
-P016,934,Touring Tire,Tires and Tubes,Accessories,28.99,10.84,1652,35.83,19,100,1000,1650,482
-P017,932,ML Road Tire,Tires and Tubes,Accessories,24.99,9.35,1588,37.37,19,100,1000,2200,574
-P018,877,Bike Wash - Dissolver,Cleaners,Accessories,7.95,2.97,1546,3.0,45,100,500,150,36
-P019,928,LL Mountain Tire,Tires and Tubes,Accessories,24.99,9.35,1538,30.71,19,100,1000,2200,609
-P020,933,HL Road Tire,Tires and Tubes,Accessories,32.6,12.19,1652,41.39,19,100,1000,1650,527
+P012,923,Touring Tire Tube,Tires and Tubes,Accessories,4.99,1.87,1652,5.89,19,100,1000,1650,502
+P013,930,HL Mountain Tire,Tires and Tubes,Accessories,35.0,13.09,1498,40.49,19,100,1000,3300,499
+P014,929,ML Mountain Tire,Tires and Tubes,Accessories,29.99,11.22,1538,34.82,19,100,1000,3300,669
+P015,931,LL Road Tire,Tires and Tubes,Accessories,21.49,8.04,1588,32.71,19,100,1000,2750,488
+P016,932,ML Road Tire,Tires and Tubes,Accessories,24.99,9.35,1588,37.37,19,100,1000,2750,574
+P017,934,Touring Tire,Tires and Tubes,Accessories,28.99,10.84,1652,35.83,19,100,1000,2750,482
+P018,877,Bike Wash - Dissolver,Cleaners,Accessories,7.95,2.97,1546,3.0,45,100,500,0,36
+P019,933,HL Road Tire,Tires and Tubes,Accessories,32.6,12.19,1652,41.39,19,100,1000,2750,527
+P020,928,LL Mountain Tire,Tires and Tubes,Accessories,24.99,9.35,1538,30.71,19,100,1000,3300,609

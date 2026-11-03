@@ -1,5 +1,5 @@
 // Dashboard page: summary cards, sales charts and stock alerts
-// All sales numbers come from the Kaggle dataset. Stock comes from what the user enters.
+// Sales and stock come from the AdventureWorks dataset, plus the stock movements the user enters.
 import { useEffect, useState } from "react";
 import {
   LineChart, Line, BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer,
@@ -25,21 +25,10 @@ export default function Dashboard() {
     return <p>Loading...</p>;
   }
 
-  // reminder if some products still have no stock entered
-  let stockNotice = null;
-  if (data.stock_not_entered > 0) {
-    stockNotice = (
-      <div className="notice">
-        {data.stock_not_entered} of {data.total_products} products have no stock entered yet.
-        The dataset has only sales, so add stock on the Inventory page to get reorder alerts.
-      </div>
-    );
-  }
-
   // alerts table, or a message if there are no alerts
   let alertsTable;
   if (data.alerts.length === 0) {
-    alertsTable = <p className="muted">No alerts. Products with stock entered have enough stock.</p>;
+    alertsTable = <p className="muted">No alerts. Every product has enough stock.</p>;
   } else {
     alertsTable = (
       <table>
@@ -47,6 +36,7 @@ export default function Dashboard() {
           <tr>
             <th>Product</th>
             <th>Stock</th>
+            <th>On Order</th>
             <th>Days Left</th>
             <th>Reorder Point</th>
             <th>Status</th>
@@ -58,6 +48,7 @@ export default function Dashboard() {
             <tr key={item.product_id}>
               <td>{item.name}</td>
               <td>{item.current_stock}</td>
+              <td>{item.on_order_qty}</td>
               <td>{item.days_of_stock_left}</td>
               <td>{item.reorder_point}</td>
               <td><StatusBadge status={item.status} /></td>
@@ -72,7 +63,6 @@ export default function Dashboard() {
   return (
     <div>
       <h2>Dashboard</h2>
-      {stockNotice}
 
       <div className="cards">
         <Card title="Products" value={data.total_products} />

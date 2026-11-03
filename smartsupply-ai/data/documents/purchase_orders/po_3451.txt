@@ -1,9 +1,0 @@
-PURCHASE ORDER 3451 - Victory Bikes
-
-Purchase order 3451 was placed with Victory Bikes on 2025-06-24 and shipped on 2025-07-03 by XRQ - TRUCK GROUND. Status: Complete.
-
-Items in purchase order 3451:
-- Road Tire Tube (P004): ordered 550, received 550, rejected 0, unit price $6.53, line total $3,592.05, due 2025-07-08
-- Touring Tire Tube (P012): ordered 550, received 550, rejected 0, unit price $6.18, line total $3,401.47, due 2025-07-08
-
-Invoice amounts for purchase order 3451: subtotal $6,993.52, tax $559.48, freight $174.84, total due $7,727.85.

@@ -37,6 +37,15 @@ AW_FOLDER = os.path.join(HERE, "adventureworks")
 CUAD_FILE = os.path.join(HERE, "cuad", "CUAD_v1.json")
 DOCS_FOLDER = os.path.join(HERE, "documents")
 NUMBER_OF_PRODUCTS = 20
+# A product needs at least this many days of sales: 28 days for the model's features,
+# 3 x 30 days for testing, and about 6 months to train on.
+MIN_HISTORY_DAYS = 300
+
+# The online sales in the sample data are not complete at the end. From 2025-05-30 every product
+# suddenly has about half the sales it had before (all 20 products drop on the same day, which real
+# demand does not do). Training on those days would make every forecast and reorder quantity too low,
+# so we stop the data the day before.
+INCOMPLETE_SALES_FROM = pd.Timestamp("2025-05-30")
 
 # The AdventureWorks files have no header row, so we give the column names here.
 # They are copied from the CREATE TABLE statements in Microsoft's install script (instawdb.sql).
@@ -376,13 +385,17 @@ def main():
                                on="SalesOrderID")
     online = online[online["OnlineOrderFlag"] == 1]
     daily = online.groupby(["OrderDate", "ProductID"])["OrderQty"].sum().reset_index()
+    if daily["OrderDate"].max() >= INCOMPLETE_SALES_FROM:
+        print("Removing the incomplete online sales from", INCOMPLETE_SALES_FROM.date(), "to",
+              daily["OrderDate"].max().date())
+        daily = daily[daily["OrderDate"] < INCOMPLETE_SALES_FROM]
     last_date = daily["OrderDate"].max()
     one_year_back = last_date - pd.Timedelta(days=365)
 
-    # Pick products that we buy from a supplier and that were already selling online a year
-    # before the data ends (so the model has enough history). Then take the best sellers of the last year.
+    # Pick products that we buy from a supplier and that have at least MIN_HISTORY_DAYS of online
+    # sales (so the model has enough history). Then take the best sellers of the last year.
     first_sale = daily.groupby("ProductID")["OrderDate"].min()
-    candidates = first_sale[first_sale <= one_year_back].index
+    candidates = first_sale[first_sale <= last_date - pd.Timedelta(days=MIN_HISTORY_DAYS)].index
     candidates = [pid for pid in candidates if pid in set(product_vendors["ProductID"])]
     last_year = daily[(daily["OrderDate"] > one_year_back) & (daily["ProductID"].isin(candidates))]
     totals = last_year.groupby("ProductID")["OrderQty"].sum().sort_values(ascending=False)

@@ -3,7 +3,7 @@ PURCHASE ORDER 662 - Sport Fan Co.
 Purchase order 662 was placed with Sport Fan Co. on 2024-08-21 and shipped on 2024-08-30 by CARGO TRANSPORT 5. Status: Complete.
 
 Items in purchase order 662:
-- LL Mountain Tire (P019): ordered 550, received 550, rejected 82, unit price $32.77, line total $18,023.78, due 2024-09-04
+- LL Mountain Tire (P020): ordered 550, received 550, rejected 82, unit price $32.77, line total $18,023.78, due 2024-09-04
 - ML Mountain Tire (P014): ordered 550, received 550, rejected 0, unit price $37.09, line total $20,397.30, due 2024-09-04
 
 Invoice amounts for purchase order 662: subtotal $38,421.07, tax $3,073.69, freight $960.53, total due $42,455.29.

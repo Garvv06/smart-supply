@@ -10,4 +10,4 @@ Supplier: Sport-100 Helmet, Blue is bought from G & K Bicycle Corp. The supplier
 
 Stock: the latest stock count of Sport-100 Helmet, Blue is 216 units: 216 units at Finished Goods Storage.
 
-Online sales: 2115 units of Sport-100 Helmet, Blue were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 94 units were sold, an average of 3.1 units per day. The best month was May 2025 with 222 units. Sport-100 Helmet, Blue sold on 385 of 393 days.
+Online sales: 2019 units of Sport-100 Helmet, Blue were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 225 units were sold, an average of 7.5 units per day. The best month was April 2025 with 218 units. Sport-100 Helmet, Blue sold on 356 of 362 days.

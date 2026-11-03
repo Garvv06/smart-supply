@@ -1,5 +1,5 @@
-// Inventory page: product list with a category filter, and a form to add stock IN or OUT
-// The dataset has no stock, so the user enters it here (IN = stock received).
+// Inventory page: product list with category and supplier filters, and a form to add stock IN or OUT
+// The starting stock comes from the latest stock count in the dataset; the user adds movements here.
 import { useEffect, useState } from "react";
 import { api } from "../api";
 import StatusBadge from "./StatusBadge";
@@ -27,6 +27,8 @@ export default function Inventory() {
   const [items, setItems] = useState([]);
   const [movements, setMovements] = useState([]);
   const [category, setCategory] = useState("");
+  const [supplier, setSupplier] = useState("");
+  const [loadError, setLoadError] = useState("");
 
   // form fields
   const [productId, setProductId] = useState("P001");
@@ -36,8 +38,12 @@ export default function Inventory() {
   const [message, setMessage] = useState("");
 
   function loadData() {
-    api.reorder().then((result) => setItems(result));
-    api.movements().then((result) => setMovements(result));
+    api.reorder()
+      .then((result) => setItems(result))
+      .catch((err) => setLoadError(err.message));
+    api.movements()
+      .then((result) => setMovements(result))
+      .catch((err) => setLoadError(err.message));
   }
 
   useEffect(() => {
@@ -62,12 +68,19 @@ export default function Inventory() {
     }
   }
 
-  const categories = uniqueValues(items, "category");
+  if (loadError) {
+    return <p className="error">Cannot reach backend: {loadError}</p>;
+  }
 
-  // only show products of the selected category
+  const categories = uniqueValues(items, "category");
+  const suppliers = uniqueValues(items, "supplier_name");
+
+  // only show products of the selected category and supplier
   const shownItems = [];
   for (const item of items) {
-    if (category === "" || item.category === category) {
+    const categoryMatches = category === "" || item.category === category;
+    const supplierMatches = supplier === "" || item.supplier_name === supplier;
+    if (categoryMatches && supplierMatches) {
       shownItems.push(item);
     }
   }
@@ -104,7 +117,7 @@ export default function Inventory() {
       <div className="panel">
         <h3>Add Stock Movement</h3>
         <p className="muted">
-          The dataset has only sales, not stock. Enter the stock you have with IN.
+          Stock starts at the latest stock count in the dataset. Add IN when stock arrives and OUT when it is sold.
         </p>
         <form className="row" onSubmit={saveMovement}>
           <select value={productId} onChange={(e) => setProductId(e.target.value)}>
@@ -138,6 +151,10 @@ export default function Inventory() {
             <option value="">All categories</option>
             {categories.map((c) => <option key={c}>{c}</option>)}
           </select>
+          <select value={supplier} onChange={(e) => setSupplier(e.target.value)}>
+            <option value="">All suppliers</option>
+            {suppliers.map((s) => <option key={s}>{s}</option>)}
+          </select>
         </div>
 
         <table>
@@ -146,8 +163,10 @@ export default function Inventory() {
               <th>ID</th>
               <th>Product</th>
               <th>Category</th>
-              <th>Price (roubles)</th>
+              <th>Supplier</th>
+              <th>Price ($)</th>
               <th>Stock</th>
+              <th>On Order</th>
               <th>Daily Demand</th>
               <th>Status</th>
               <th>Suggested Order</th>
@@ -159,8 +178,10 @@ export default function Inventory() {
                 <td>{item.product_id}</td>
                 <td>{item.name}</td>
                 <td>{item.category}</td>
-                <td>{item.unit_price}</td>
+                <td>{showValue(item.supplier_name)}</td>
+                <td>{item.unit_price.toFixed(2)}</td>
                 <td>{showValue(item.current_stock)}</td>
+                <td>{item.on_order_qty}</td>
                 <td>{item.avg_daily_demand}</td>
                 <td><StatusBadge status={item.status} /></td>
                 <td>{item.suggested_order_qty}</td>

@@ -44,21 +44,21 @@ Products,What is the lead time for ML Mountain Tire?,products/product_P014.txt,1
 Products,What is the price of LL Road Tire?,products/product_P015.txt,$21.49
 Products,Who supplies LL Road Tire?,products/product_P015.txt,Signature Cycles
 Products,What is the lead time for LL Road Tire?,products/product_P015.txt,19 days
-Products,What is the price of Touring Tire?,products/product_P016.txt,$28.99
-Products,Who supplies Touring Tire?,products/product_P016.txt,Victory Bikes
-Products,What is the lead time for Touring Tire?,products/product_P016.txt,19 days
-Products,What is the price of ML Road Tire?,products/product_P017.txt,$24.99
-Products,Who supplies ML Road Tire?,products/product_P017.txt,Signature Cycles
-Products,What is the lead time for ML Road Tire?,products/product_P017.txt,19 days
+Products,What is the price of ML Road Tire?,products/product_P016.txt,$24.99
+Products,Who supplies ML Road Tire?,products/product_P016.txt,Signature Cycles
+Products,What is the lead time for ML Road Tire?,products/product_P016.txt,19 days
+Products,What is the price of Touring Tire?,products/product_P017.txt,$28.99
+Products,Who supplies Touring Tire?,products/product_P017.txt,Victory Bikes
+Products,What is the lead time for Touring Tire?,products/product_P017.txt,19 days
 Products,What is the price of Bike Wash - Dissolver?,products/product_P018.txt,$7.95
 Products,Who supplies Bike Wash - Dissolver?,products/product_P018.txt,Green Lake Bike Company
 Products,What is the lead time for Bike Wash - Dissolver?,products/product_P018.txt,45 days
-Products,What is the price of LL Mountain Tire?,products/product_P019.txt,$24.99
-Products,Who supplies LL Mountain Tire?,products/product_P019.txt,Vista Road Bikes
-Products,What is the lead time for LL Mountain Tire?,products/product_P019.txt,19 days
-Products,What is the price of HL Road Tire?,products/product_P020.txt,$32.60
-Products,Who supplies HL Road Tire?,products/product_P020.txt,Victory Bikes
-Products,What is the lead time for HL Road Tire?,products/product_P020.txt,19 days
+Products,What is the price of HL Road Tire?,products/product_P019.txt,$32.60
+Products,Who supplies HL Road Tire?,products/product_P019.txt,Victory Bikes
+Products,What is the lead time for HL Road Tire?,products/product_P019.txt,19 days
+Products,What is the price of LL Mountain Tire?,products/product_P020.txt,$24.99
+Products,Who supplies LL Mountain Tire?,products/product_P020.txt,Vista Road Bikes
+Products,What is the lead time for LL Mountain Tire?,products/product_P020.txt,19 days
 Suppliers,"What is the credit rating of Trikes, Inc.?",suppliers/supplier_1498.txt,Excellent
 Suppliers,What is the credit rating of G & K Bicycle Corp.?,suppliers/supplier_1520.txt,Superior
 Suppliers,What is the credit rating of Vista Road Bikes?,suppliers/supplier_1538.txt,Above average
@@ -68,26 +68,26 @@ Suppliers,What is the credit rating of Sport Fan Co.?,suppliers/supplier_1632.tx
 Suppliers,What is the credit rating of Integrated Sport Products?,suppliers/supplier_1636.txt,Superior
 Suppliers,What is the credit rating of Victory Bikes?,suppliers/supplier_1652.txt,Below average
 Suppliers,What is the credit rating of Professional Athletic Consultants?,suppliers/supplier_1684.txt,Superior
-Purchase orders,What was the total due for purchase order 3291?,purchase_orders/po_3291.txt,"$29,233.08"
-Purchase orders,What was the total due for purchase order 3293?,purchase_orders/po_3293.txt,"$7,727.85"
-Purchase orders,What was the total due for purchase order 3295?,purchase_orders/po_3295.txt,"$41,817.15"
-Purchase orders,What was the total due for purchase order 3360?,purchase_orders/po_3360.txt,"$72,090.39"
-Purchase orders,What was the total due for purchase order 3363?,purchase_orders/po_3363.txt,"$44,720.68"
-Purchase orders,What was the total due for purchase order 3365?,purchase_orders/po_3365.txt,"$68,612.54"
-Purchase orders,What was the total due for purchase order 3370?,purchase_orders/po_3370.txt,"$29,233.08"
-Purchase orders,What was the total due for purchase order 3372?,purchase_orders/po_3372.txt,"$49,276.98"
-Purchase orders,What was the total due for purchase order 3374?,purchase_orders/po_3374.txt,"$41,817.15"
-Purchase orders,What was the total due for purchase order 3439?,purchase_orders/po_3439.txt,"$23,183.54"
-Purchase orders,What was the total due for purchase order 3442?,purchase_orders/po_3442.txt,"$44,720.68"
-Purchase orders,What was the total due for purchase order 3444?,purchase_orders/po_3444.txt,"$42,455.29"
-Purchase orders,What was the total due for purchase order 3449?,purchase_orders/po_3449.txt,"$29,233.08"
-Purchase orders,What was the total due for purchase order 3451?,purchase_orders/po_3451.txt,"$7,727.85"
-Purchase orders,What was the total due for purchase order 3453?,purchase_orders/po_3453.txt,"$41,817.15"
-Purchase orders,What was the total due for purchase order 3518?,purchase_orders/po_3518.txt,"$95,273.93"
+Purchase orders,What was the total due for purchase order 2968?,purchase_orders/po_2968.txt,"$44,720.68"
+Purchase orders,What was the total due for purchase order 2970?,purchase_orders/po_2970.txt,"$68,612.54"
+Purchase orders,What was the total due for purchase order 2975?,purchase_orders/po_2975.txt,"$29,233.08"
+Purchase orders,What was the total due for purchase order 2977?,purchase_orders/po_2977.txt,"$57,004.82"
+Purchase orders,What was the total due for purchase order 2979?,purchase_orders/po_2979.txt,"$41,817.15"
+Purchase orders,What was the total due for purchase order 3044?,purchase_orders/po_3044.txt,"$45,358.81"
+Purchase orders,What was the total due for purchase order 3047?,purchase_orders/po_3047.txt,"$44,720.68"
+Purchase orders,What was the total due for purchase order 3049?,purchase_orders/po_3049.txt,"$68,612.54"
+Purchase orders,What was the total due for purchase order 3054?,purchase_orders/po_3054.txt,"$29,233.08"
+Purchase orders,What was the total due for purchase order 3056?,purchase_orders/po_3056.txt,"$57,004.82"
+Purchase orders,What was the total due for purchase order 3058?,purchase_orders/po_3058.txt,"$41,817.15"
+Purchase orders,What was the total due for purchase order 3123?,purchase_orders/po_3123.txt,"$49,915.12"
+Purchase orders,What was the total due for purchase order 3126?,purchase_orders/po_3126.txt,"$44,720.68"
+Purchase orders,What was the total due for purchase order 3128?,purchase_orders/po_3128.txt,"$68,612.54"
+Purchase orders,What was the total due for purchase order 3133?,purchase_orders/po_3133.txt,"$29,233.08"
+Purchase orders,What was the total due for purchase order 3135?,purchase_orders/po_3135.txt,"$57,004.82"
+Purchase orders,What was the total due for purchase order 3137?,purchase_orders/po_3137.txt,"$41,817.15"
 Purchase orders,What was the total due for purchase order 4001?,purchase_orders/po_4001.txt,"$5,036.15"
 Purchase orders,What was the total due for purchase order 4003?,purchase_orders/po_4003.txt,"$30,198.96"
 Purchase orders,What was the total due for purchase order 4009?,purchase_orders/po_4009.txt,"$16,406.50"
-Purchase orders,What was the total due for purchase order 4011?,purchase_orders/po_4011.txt,"$59,941.75"
 Contracts,When does the LohaCompanyltd supply agreement expire?,contracts/contract_LohaCompanyltd.txt,"The Contract is valid for 5 years, beginning from and ended on ."
 Contracts,Which law governs the LohaCompanyltd supply agreement?,contracts/contract_LohaCompanyltd.txt,"It will be governed by the law of the People's Republic of China ,otherwise it is governed by United Nations Convention on Contract for the International Sale of Goods."
 Contracts,How long is the warranty in the LohaCompanyltd supply agreement?,contracts/contract_LohaCompanyltd.txt,"Within 7 days after the arrival of the goods at destination, should the quality, specification, or quantity be found not in conformity with the stipulations of the Contract except those claims for which the insurance company or the owners of the vessel are liable, the Buyers, on the strength of the Inspection Certificate issued by the China Commodity Inspection Bureau, have the right to claim for replacement with new goods, or for compensation, and all the expenses (such as inspection charges, freight for returning the goods and for sending the replacement, insurance premium, storage and loading and unloading charges etc.) shall be borne by the Sellers."

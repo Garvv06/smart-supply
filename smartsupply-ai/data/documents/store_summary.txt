@@ -1,22 +1,22 @@
 STORE SUMMARY - Adventure Works online store
 
-Data source: the Microsoft AdventureWorks sample database, which is sample data for a made-up bike company called Adventure Works Cycles. The online sales data covers 2024-06-02 to 2025-06-29.
+Data source: the Microsoft AdventureWorks sample database, which is sample data for a made-up bike company called Adventure Works Cycles. The online sales data covers 2024-06-02 to 2025-05-29.
 
-Products and suppliers: we track 20 products from 7 main suppliers. In total 36861 units of these products were sold online.
+Products and suppliers: we track 20 products from 7 main suppliers. In total 35051 units of these products were sold online.
 
 Best selling products (most units sold online in the last year):
-1. Water Bottle - 30 oz. (4127 units)
-2. Patch Kit/8 Patches (3130 units)
-3. Mountain Tire Tube (3063 units)
-4. Road Tire Tube (2329 units)
-5. Sport-100 Helmet, Red (2179 units)
+1. Water Bottle - 30 oz. (4058 units)
+2. Patch Kit/8 Patches (3006 units)
+3. Mountain Tire Tube (2905 units)
+4. Road Tire Tube (2209 units)
+5. Sport-100 Helmet, Red (2140 units)
 
-Category sales: the category with the highest online sales is Tires and Tubes with 17298 units. Units sold in each category:
-Tires and Tubes: 17298 units
-Bottles and Cages: 7943 units
-Helmets: 6414 units
-Caps: 2182 units
-Fenders: 2116 units
-Cleaners: 908 units
+Category sales: the category with the highest online sales is Tires and Tubes with 16265 units. Units sold in each category:
+Tires and Tubes: 16265 units
+Bottles and Cages: 7681 units
+Helmets: 6145 units
+Caps: 2087 units
+Fenders: 2009 units
+Cleaners: 864 units
 
 Stock: the latest stock count is 7688 units in total, worth $59,970.05 at standard cost.

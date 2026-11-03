@@ -2,13 +2,26 @@
 // If the backend runs on a different port, change it here.
 const BASE_URL = "http://localhost:8000/api";
 
-async function getData(path) {
-  const response = await fetch(BASE_URL + path);
-  const data = await response.json();
+// read the JSON answer, or throw an error with the backend's message
+async function readResponse(response) {
+  let data = null;
+  try {
+    data = await response.json();
+  } catch {
+    data = null;   // for example a crash page that is not JSON
+  }
   if (!response.ok) {
-    throw new Error(data.detail);
+    if (data && data.detail) {
+      throw new Error(data.detail);
+    }
+    throw new Error("Server error " + response.status);
   }
   return data;
+}
+
+async function getData(path) {
+  const response = await fetch(BASE_URL + path);
+  return readResponse(response);
 }
 
 async function postData(path, body) {
@@ -17,22 +30,14 @@ async function postData(path, body) {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(body),
   });
-  const data = await response.json();
-  if (!response.ok) {
-    throw new Error(data.detail);
-  }
-  return data;
+  return readResponse(response);
 }
 
 async function uploadFile(file) {
   const form = new FormData();
   form.append("file", file);
   const response = await fetch(BASE_URL + "/upload", { method: "POST", body: form });
-  const data = await response.json();
-  if (!response.ok) {
-    throw new Error(data.detail);
-  }
-  return data;
+  return readResponse(response);
 }
 
 export const api = {
@@ -43,6 +48,7 @@ export const api = {
   metrics: () => getData("/metrics"),
   movements: () => getData("/movements"),
   addMovement: (movement) => postData("/movements", movement),
+  suppliers: () => getData("/suppliers"),
   ask: (question) => postData("/ask", { question: question }),
   documents: () => getData("/documents"),
   upload: (file) => uploadFile(file),

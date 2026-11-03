@@ -3,8 +3,8 @@ PURCHASE ORDER 2266 - Victory Bikes
 Purchase order 2266 was placed with Victory Bikes on 2025-03-10 and shipped on 2025-03-19 by OVERNIGHT J-FAST. Status: Complete.
 
 Items in purchase order 2266:
-- HL Road Tire (P020): ordered 550, received 468, rejected 0, unit price $43.46, line total $23,902.72, due 2025-03-24
-- Touring Tire (P016): ordered 550, received 550, rejected 0, unit price $37.62, line total $20,691.83, due 2025-03-24
+- HL Road Tire (P019): ordered 550, received 468, rejected 0, unit price $43.46, line total $23,902.72, due 2025-03-24
+- Touring Tire (P017): ordered 550, received 550, rejected 0, unit price $37.62, line total $20,691.83, due 2025-03-24
 - Road Tire Tube (P004): ordered 550, received 550, rejected 0, unit price $6.53, line total $3,592.05, due 2025-03-24
 - Touring Tire Tube (P012): ordered 550, received 550, rejected 0, unit price $6.18, line total $3,401.47, due 2025-03-24
 

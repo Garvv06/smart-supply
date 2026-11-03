@@ -6,10 +6,10 @@ Description of HL Mountain Tire: Incredible traction, lightweight carbon reinfor
 
 Price: HL Mountain Tire sells for $35.00. Its standard cost is $13.09.
 
-Supplier: HL Mountain Tire is bought from Trikes, Inc. The supplier's usual price is $40.49 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 1650 units are on order and have not arrived yet.
+Supplier: HL Mountain Tire is bought from Trikes, Inc. The supplier's usual price is $40.49 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 3300 units are on order and have not arrived yet.
 
 Other supplier: HL Mountain Tire can also be bought from Sport Fan Co. for $40.99 per unit, with a lead time of 19 days.
 
 Stock: the latest stock count of HL Mountain Tire is 499 units: 267 units at Miscellaneous Storage (shelf L, bin 5); 232 units at Subassembly (shelf R, bin 5).
 
-Online sales: 1392 units of HL Mountain Tire were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 62 units were sold, an average of 2.1 units per day. The best month was April 2025 with 157 units. HL Mountain Tire sold on 371 of 393 days.
+Online sales: 1327 units of HL Mountain Tire were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 129 units were sold, an average of 4.3 units per day. The best month was April 2025 with 157 units. HL Mountain Tire sold on 344 of 362 days.

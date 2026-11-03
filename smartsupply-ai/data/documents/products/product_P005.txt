@@ -10,4 +10,4 @@ Supplier: Sport-100 Helmet, Red is bought from G & K Bicycle Corp. The supplier'
 
 Stock: the latest stock count of Sport-100 Helmet, Red is 288 units: 288 units at Finished Goods Storage.
 
-Online sales: 2220 units of Sport-100 Helmet, Red were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 77 units were sold, an average of 2.6 units per day. The best month was April 2025 with 242 units. Sport-100 Helmet, Red sold on 380 of 393 days.
+Online sales: 2140 units of Sport-100 Helmet, Red were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 216 units were sold, an average of 7.2 units per day. The best month was April 2025 with 242 units. Sport-100 Helmet, Red sold on 352 of 362 days.

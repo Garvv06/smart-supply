@@ -4,4 +4,4 @@ Supplier ID: 1636. Account number: INTEGRAT0001. Credit rating of Integrated Spo
 
 Products: of the products we track, Integrated Sport Products supplies: AWC Logo Cap (P006): price $6.55, lead time 45 days, order 100 to 1000 units.
 
-Purchase history with Integrated Sport Products: 4 purchase orders between 2024-11-02 and 2025-06-23, worth $1,186,835.76 in total (with tax and freight). 26730 units were received and 0 units (0.0%) were rejected during inspection. On average the orders shipped 25.0 days after they were placed.
+Purchase history with Integrated Sport Products: 3 purchase orders between 2024-11-02 and 2025-05-13, worth $89,387.76 in total (with tax and freight). 2730 units were received and 0 units (0.0%) were rejected during inspection. On average the orders shipped 25.0 days after they were placed.

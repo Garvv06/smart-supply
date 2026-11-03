@@ -6,8 +6,8 @@ Description of Touring Tire Tube: General purpose tube.
 
 Price: Touring Tire Tube sells for $4.99. Its standard cost is $1.87.
 
-Supplier: Touring Tire Tube is bought from Victory Bikes. The supplier's usual price is $5.89 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 550 units are on order and have not arrived yet.
+Supplier: Touring Tire Tube is bought from Victory Bikes. The supplier's usual price is $5.89 per unit. The lead time (days between ordering and receiving) is 19 days. Each order must be between 100 and 1000 units. 1650 units are on order and have not arrived yet.
 
 Stock: the latest stock count of Touring Tire Tube is 502 units: 262 units at Miscellaneous Storage (shelf L, bin 18); 240 units at Subassembly (shelf R, bin 18).
 
-Online sales: 1486 units of Touring Tire Tube were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 90 units were sold, an average of 3.0 units per day. The best month was March 2025 with 154 units. Touring Tire Tube sold on 365 of 393 days.
+Online sales: 1395 units of Touring Tire Tube were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 140 units were sold, an average of 4.7 units per day. The best month was March 2025 with 154 units. Touring Tire Tube sold on 335 of 362 days.

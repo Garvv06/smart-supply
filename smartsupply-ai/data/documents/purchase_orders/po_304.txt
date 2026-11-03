@@ -3,7 +3,7 @@ PURCHASE ORDER 304 - Sport Fan Co.
 Purchase order 304 was placed with Sport Fan Co. on 2024-04-11 and shipped on 2024-04-20 by CARGO TRANSPORT 5. Status: Rejected.
 
 Items in purchase order 304:
-- LL Mountain Tire (P019): ordered 550, received 550, rejected 550, unit price $32.77, line total $18,023.78, due 2024-04-25
+- LL Mountain Tire (P020): ordered 550, received 550, rejected 550, unit price $32.77, line total $18,023.78, due 2024-04-25
 - ML Mountain Tire (P014): ordered 550, received 550, rejected 550, unit price $37.09, line total $20,397.30, due 2024-04-25
 
 Invoice amounts for purchase order 304: subtotal $38,421.07, tax $3,073.69, freight $960.53, total due $42,455.29.

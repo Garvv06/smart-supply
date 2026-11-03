@@ -10,4 +10,4 @@ Supplier: Patch Kit/8 Patches is bought from Green Lake Bike Company. The suppli
 
 Stock: the latest stock count of Patch Kit/8 Patches is 180 units: 180 units at Finished Goods Storage.
 
-Online sales: 3187 units of Patch Kit/8 Patches were sold online between 2024-06-02 and 2025-06-29. In the last 30 days 175 units were sold, an average of 5.8 units per day. The best month was March 2025 with 314 units. Patch Kit/8 Patches sold on 386 of 393 days.
+Online sales: 3006 units of Patch Kit/8 Patches were sold online between 2024-06-02 and 2025-05-29. In the last 30 days 270 units were sold, an average of 9.0 units per day. The best month was March 2025 with 314 units. Patch Kit/8 Patches sold on 355 of 362 days.

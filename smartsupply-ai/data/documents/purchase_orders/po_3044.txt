@@ -4,6 +4,6 @@ Purchase order 3044 was placed with Professional Athletic Consultants on 2025-05
 
 Items in purchase order 3044:
 - LL Road Tire (P015): ordered 550, received 550, rejected 0, unit price $34.87, line total $19,178.78, due 2025-06-05
-- ML Road Tire (P017): ordered 550, received 550, rejected 0, unit price $39.76, line total $21,869.92, due 2025-06-05
+- ML Road Tire (P016): ordered 550, received 550, rejected 0, unit price $39.76, line total $21,869.92, due 2025-06-05
 
 Invoice amounts for purchase order 3044: subtotal $41,048.70, tax $3,283.90, freight $1,026.22, total due $45,358.81.
